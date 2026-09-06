@@ -1,0 +1,911 @@
+[
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "adalat-ai",
+  "field": "accuracy.claim",
+  "value": "15+ Indian languages; 90%+ accuracy",
+  "quote": "\"Supports 15+ Indian languages and legal jargon with 90%+ accuracy.\"",
+  "source": "https://www.adalat.ai/products"
+ },
+ {
+  "why": "contradictory statements on vendor pages",
+  "tool": "adalat-ai",
+  "field": "security.hipaa",
+  "note": "Same page also says systems are being designed toward HIPAA-grade security.",
+  "source": "https://www.adalat.ai/security"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "agiloft",
+  "field": "accuracy.claim",
+  "value": "Auditable outputs; traceable decisions",
+  "quote": "\"Auditable outputs. Traceable decisions.\"",
+  "source": "https://www.agiloft.com/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "alexi",
+  "field": "accuracy.claim",
+  "value": "Tied for #1 in single-jurisdiction legal analysis accuracy",
+  "quote": "\"Tied for #1 in single-jurisdiction legal analysis accuracy, independently verified by VALS.\"",
+  "source": "https://www.alexi.com/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "amazon-q-business",
+  "field": "accuracy.claim",
+  "value": "Avoid incorrect statements; citations; hallucination mitigation",
+  "quote": "\"It can avoid incorrect statements by confining its generated responses to existing enterprise data\"",
+  "source": "https://docs.aws.amazon.com/amazonq/latest/qbusiness-ug/what-is.html"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "bloomberg-law-ai",
+  "field": "accuracy.claim",
+  "value": "AI Assistant abstains outside available/legal-scope content",
+  "quote": "\"will abstain from answering when there is no available content\"",
+  "source": "https://pro.bloomberglaw.com/about/our-approach-to-ai/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "blue-j",
+  "field": "accuracy.claim",
+  "value": "Primary tax sources current and updated daily",
+  "quote": "\"Our database of primary tax sources is current and updated daily.\"",
+  "source": "https://www.bluej.com/pricing"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "briefpoint",
+  "field": "accuracy.claim",
+  "value": "AI output may be inaccurate; customer verifies",
+  "quote": "\"Service may produce inaccurate or erroneous Outputs\"",
+  "source": "https://briefpoint.ai/terms-and-conditions/"
+ },
+ {
+  "why": "contradictory statements on vendor pages",
+  "tool": "briefpoint",
+  "field": "security.hipaa",
+  "note": "Pricing/home badges say HIPAA/HIPAA-compliant; terms say services are not intended for HIPAA and Briefpoint is not a Business Associate.",
+  "source": "https://briefpoint.ai/terms-and-conditions/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "casemark",
+  "field": "accuracy.claim",
+  "value": "Drafts documents and cites back to source",
+  "quote": "\"CaseMark reads every page, drafts the document your matter needs, and cites back to the source.\"",
+  "source": "https://casemark.com/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "casepoint",
+  "field": "accuracy.claim",
+  "value": "RAG answers from customer data with source citations; human judgment emphasized",
+  "quote": "\"Retrieval-Augmented Generation (RAG) to pull answers directly from your data\"",
+  "source": "https://www.casepoint.com/generative-ai-solution/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "casetext-cocounsel",
+  "field": "accuracy.claim",
+  "value": "answers grounded in authority with verifiable sources/reasoning",
+  "quote": "\"CoCounsel surfaces sources and reasoning\"",
+  "source": "https://www.thomsonreuters.com/en/cocounsel.html"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "caseway",
+  "field": "accuracy.claim",
+  "value": "grounded cited answers over Canadian and U.S. court decisions",
+  "quote": "\"returning cited answers rather than guesses\"",
+  "source": "https://www.caseway.ai/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "casium",
+  "field": "accuracy.claim",
+  "value": "no guarantee of legal accuracy or outcomes",
+  "quote": "\"we cannot guarantee specific outcomes\"",
+  "source": "https://www.casium.com/terms-of-service-2"
+ },
+ {
+  "why": "contradictory statements on vendor pages",
+  "tool": "casium",
+  "field": "product.status",
+  "note": "Homepage says 'licensed law firm, technology platform, and service partner in one'; terms say Casium is not a law firm.",
+  "source": "https://www.casium.com/terms-of-service-2"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "claude-for-enterprise",
+  "field": "accuracy.claim",
+  "value": "Claude leads on legal reasoning benchmarks",
+  "quote": "\"Claude leads on legal reasoning benchmarks across contract review, citation accuracy, and long-document comprehension.\"",
+  "source": "https://claude.com/solutions/legal"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "clearbrief",
+  "field": "accuracy.claim",
+  "value": "AI fact-checking, hyperlinked evidence, and citation tools",
+  "quote": "\"AI-powered fact-checking & hyperlinked evidence\"",
+  "source": "https://clearbrief.com/pricing"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "conga-clm",
+  "field": "accuracy.claim",
+  "value": "Extract key text and table data accurately",
+  "quote": "\"Extract key text and table data accurately\"",
+  "source": "https://conga.com/products/conga-clm"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "consilio-aurora",
+  "field": "accuracy.claim",
+  "value": "expert-guided, explainable/source-backed AI for investigations/review/legal operations",
+  "quote": "\"Consistent, explainable AI across investigations\"",
+  "source": "https://www.consilio.com/technology/aurora-legal-ai-suite/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "contractbook",
+  "field": "accuracy.claim",
+  "value": "AI contract assistant and AI import/data extraction are included in paid tiers",
+  "quote": "\"AI contract assistant\"",
+  "source": "https://contractbook.com/pricing"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "counsel-stack",
+  "field": "accuracy.claim",
+  "value": "verifies legal citations against 29,928,775+ cites",
+  "quote": "\"checking each reference against our index of 29,928,775+ cites\"",
+  "source": "https://www.counselstack.com/legal-citator-api"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "courtcorrect",
+  "field": "accuracy.claim",
+  "value": "limited-risk assistive AI with mandatory human review/sign-off",
+  "quote": "\"mandatory human review/sign-off\"",
+  "source": "https://www.courtcorrect.com/legal/ai-safety-policy"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "darrow",
+  "field": "accuracy.claim",
+  "value": "signals undergo multi-layer legal/data-science validation; unverified intelligence not delivered",
+  "quote": "\"We do not deliver unverified intelligence\"",
+  "source": "https://www.darrow.ai/faq"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "deepip",
+  "field": "accuracy.claim",
+  "value": "Models designed to minimize hallucinations",
+  "quote": "\"Our models are designed by IP and Machine Learning experts to minimize hallucinations and produce reliable outputs.\"",
+  "source": "https://www.deepip.ai/security"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "definely",
+  "field": "accuracy.claim",
+  "value": "AI-powered contract analysis and proofreading in Word; no accuracy metric found",
+  "quote": "\"AI tools for lawyers working on complex contracts in Word\"",
+  "source": "https://www.definely.com/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "descrybe-ai",
+  "field": "accuracy.claim",
+  "value": "outputs may be inaccurate; not legal advice",
+  "quote": "\"Descrybe Outputs may be inaccurate or erroneous\"",
+  "source": "https://descrybe.com/legal/terms"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "disco-cecilia",
+  "field": "accuracy.claim",
+  "value": "10-20% higher precision and recall than human reviewers",
+  "quote": "\"10-20% higher precision and recall than human reviewers\"",
+  "source": "https://csdisco.com/pricing"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "docketwise",
+  "field": "accuracy.claim",
+  "value": "purpose-built legal workflow AI, more accurate outputs for legal writing and forms",
+  "quote": "\"providing more accurate outputs for legal writing and form preparation\"",
+  "source": "https://www.docketwise.com/features/ai-for-law-firms"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "docusign-iam",
+  "field": "accuracy.claim",
+  "value": "AI output may be incorrect; customer responsible for review",
+  "quote": "\"AI SERVICES MAY PRODUCE AI OUTPUT THAT IS INCORRECT OR OTHERWISE UNDESIRABLE\"",
+  "source": "https://www.docusign.com/legal/terms-and-conditions/ai-attachment-docusign-services"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "donotpay",
+  "field": "accuracy.claim",
+  "value": "legal information and self-help; no legal accuracy review",
+  "quote": "\"We do not review any information you provide us for legal accuracy or sufficiency\"",
+  "source": "https://donotpay.com/terms"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "draftwise",
+  "field": "accuracy.claim",
+  "value": "97% precision and 94% recall",
+  "quote": "\"97% precision and 94% recall\"",
+  "source": "https://www.draftwise.com/blog/draftwise-platform-achieves-97-precision-score-in-third-party-client-defined-benchmark-as-testing-validates-its-ais-accuracy-and-recall"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "epiq-ai",
+  "field": "accuracy.claim",
+  "value": "AI outputs are preliminary and not guaranteed accurate, complete, or current",
+  "quote": "\"outputs are generated through machine learning processes and are not tested, verified, endorsed or guaranteed\"",
+  "source": "https://www.epiqglobal.com/en-US/data-processing-terms"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "eve-legal",
+  "field": "accuracy.claim",
+  "value": "output may contain inaccuracies and must be reviewed",
+  "quote": "\"Eve does not warrant that Output will be error-free\"",
+  "source": "https://www.eve.legal/eve-enterprise-terms"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "evenup",
+  "field": "accuracy.claim",
+  "value": "Every output has line-level citation to source documents",
+  "quote": "\"Every output generated by our AI is accompanied by a line-level citation to the original source documents\"",
+  "source": "https://www.evenuplaw.com/blog/trust-verify-legal-ai/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "everlaw",
+  "field": "accuracy.claim",
+  "value": "Output is probabilistic and may not be accurate; human review advised.",
+  "quote": "\"Output is probabilistic and may not be accurate, reliable, or otherwise appropriate\"",
+  "source": "https://www.everlaw.com/terms/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "evisort",
+  "field": "accuracy.claim",
+  "value": "21-day average implementation and 450,000 documents analyzed in 24 hours",
+  "quote": "\"Implementation takes 21 days on average for Workday Contract Intelligence.\"",
+  "source": "https://www.workday.com/en-us/products/contract-management/overview.html"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "filevine-ai",
+  "field": "accuracy.claim",
+  "value": "Fact-level accuracy / human-verified output marketing claim",
+  "quote": "\"Fact-level accuracy\"",
+  "source": "https://www.filevine.com/pricing/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "garfield-law",
+  "field": "accuracy.claim",
+  "value": "content and estimator provided as-is; no accuracy warranty",
+  "quote": "\"We do not make any guarantee or representation or warranty\"",
+  "source": "https://www.garfield.law/terms"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "genie-ai",
+  "field": "accuracy.claim",
+  "value": "90% lawyer-graded document benchmark claim",
+  "quote": "\"Genie achieved 90% accuracy\"",
+  "source": "https://www.genieai.co/model-training"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "hebbia",
+  "field": "accuracy.claim",
+  "value": "never hallucinates and gives correct, verifiable answers",
+  "quote": "\"never hallucinates and gives correct, verifiable answers\"",
+  "source": "https://www.hebbia.com/security"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "icertis",
+  "field": "accuracy.claim",
+  "value": "responses have clause-level citations and verifiable source evidence",
+  "quote": "\"Every response is anchored to pre-computed contract data with direct clause-level citations\"",
+  "source": "https://www.icertis.com/products/platform/copilot"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "imanage-ai",
+  "field": "accuracy.claim",
+  "value": "AI-powered responses backed by citations to firm work",
+  "quote": "\"AI-powered responses backed by citations to your firm’s own work.\"",
+  "source": "https://imanage.com/imanage-products/the-imanage-platform/ai/ask-imanage/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "iprally",
+  "field": "accuracy.claim",
+  "value": "AI-supported searches improve patent-search accuracy and consistency",
+  "quote": "\"Ensure accuracy and consistency with AI-supported legal searches.\"",
+  "source": "https://iprally.com/product/pricing"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "ironclad",
+  "field": "accuracy.claim",
+  "value": "outputs may be inaccurate; human oversight required",
+  "quote": "\"information generated by the AI Products may be incorrect or inaccurate\"",
+  "source": "https://legal.ironcladapp.com/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "jhana",
+  "field": "accuracy.claim",
+  "value": "16M+ judgments/statutes with instant citations",
+  "quote": "\"Search 16M+ judgments, upload documents, get instant citations.\"",
+  "source": "https://www.jhana.ai/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "josef",
+  "field": "accuracy.claim",
+  "value": "closed-domain Q&A with human-in-the-loop moderation and source review",
+  "quote": "\"a closed-domain system, human-in-the-loop moderation\"",
+  "source": "https://joseflegal.com/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "juro",
+  "field": "accuracy.claim",
+  "value": "generative AI can never be 100% accurate; users should verify output",
+  "quote": "\"generative AI is predictive by nature, and so can never be 100 per cent accurate\"",
+  "source": "https://juro.com/trust/responsible-ai"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "kira-litera",
+  "field": "accuracy.claim",
+  "value": "95%+ precision on target provisions",
+  "quote": "\"95%+ precision on target provisions, matching senior-lawyer accuracy\"",
+  "source": "https://www.litera.com/products/kira"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "lawdroid-copilot",
+  "field": "accuracy.claim",
+  "value": "service content may be incorrect; no accuracy/reliability warranty",
+  "quote": "\"You may be exposed to content that You may find offensive, indecent, incorrect or objectionable\"",
+  "source": "https://lawdroid.com/terms-of-service/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "lawfully",
+  "field": "accuracy.claim",
+  "value": "Case Analysis Pro predicts expected decision dates using registered case data and AI",
+  "quote": "\"expected decision date considering a calculated processing time based on our advanced AI-technology\"",
+  "source": "https://www.lawfully.com/resources/start-case-analysis-pro"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "lawgeex",
+  "field": "accuracy.claim",
+  "value": "Forrester report says 209% ROI and 6500+ hours saved",
+  "quote": "\"209% ROI and over 6500+ hours saved\"",
+  "source": "https://www.lawgeex.com"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "lawmatics",
+  "field": "accuracy.claim",
+  "value": "Merlin Copilot answers from live firm data and users review/approve work",
+  "quote": "\"users review and approve any work it produces before it goes live\"",
+  "source": "https://www.lawmatics.com/ai/merlin-copilot"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "lawpath",
+  "field": "accuracy.claim",
+  "value": "Atlas uses data from 650,000+ documents/businesses; AI document review reports legal insights and datapoints",
+  "quote": "\"data from 650,000+ documents and your specific business profile\"",
+  "source": "https://lawpath.com.au/features/lawpath-atlas-legal"
+ },
+ {
+  "why": "contradictory statements on vendor pages",
+  "tool": "lawpath",
+  "field": "security.data_residency",
+  "note": "Security page says documents stay within Australian borders; privacy policy says hosting facilities in Australia and the US.",
+  "source": "https://lawpath.com.au/privacy"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "lawpavilion",
+  "field": "accuracy.claim",
+  "value": "Claims no hallucinations and verified legal cases",
+  "quote": "\"No hallucinations, guesswork, or off-context quotes.\"",
+  "source": "https://primsol.lawpavilion.com/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "leah-contractpodai",
+  "field": "accuracy.claim",
+  "value": "contract questions answered with sources attached",
+  "quote": "\"answers contract questions in seconds with sources attached\"",
+  "source": "https://leahai.com/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "leap-matter-ai",
+  "field": "accuracy.claim",
+  "value": "LawY legal research includes lawyer-in-the-loop verification",
+  "quote": "\"lawyer-in-the-loop verification\"",
+  "source": "https://www.leaplegalsoftware.com/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "legalfly",
+  "field": "accuracy.claim",
+  "value": "preserves full legal and contextual accuracy after anonymization",
+  "quote": "\"preserving the full legal and contextual accuracy of every review\"",
+  "source": "https://www.legalfly.com/security"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "legalzoom-ai",
+  "field": "accuracy.claim",
+  "value": "Doc Assist summaries may be incomplete or inaccurate; service is informational only",
+  "quote": "\"some information may be incomplete or inaccurate\"",
+  "source": "https://www.legalzoom.com/ai/doc-assist"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "legora",
+  "field": "accuracy.claim",
+  "value": "every AI output can be traced to source data and prompt",
+  "quote": "\"Every AI output generated in Legora can be traced back\"",
+  "source": "https://legora.com/security"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "lex-machina",
+  "field": "accuracy.claim",
+  "value": "proprietary technology and AI-assisted attorney review convert legal documents to datasets",
+  "quote": "\"proprietary technology and AI-assisted attorney review\"",
+  "source": "https://www.lexisnexis.com/en-us/products/lex-machina.page"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "lexcheck",
+  "field": "accuracy.claim",
+  "value": ">75% speed increase; >50% legal cost reduction; contracts signed as little as one day",
+  "quote": "\">75%\"",
+  "source": "https://www.lexcheck.com"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "lexion",
+  "field": "accuracy.claim",
+  "value": "UiPath blog headline says up to 94+% accuracy for document understanding models",
+  "quote": "\"up to 94+% Accuracy\"",
+  "source": "https://www.lexion.ai/legal"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "lexis-plus-ai",
+  "field": "accuracy.claim",
+  "value": "optimized for legal accuracy and grounds responses in LexisNexis sources",
+  "quote": "\"optimized for legal accuracy\"",
+  "source": "https://www.lexisnexis.com/en-us/products/lexis-plus-ai.page"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "lexlegis-ai",
+  "field": "accuracy.claim",
+  "value": "research without hallucination; every answer cites real source",
+  "quote": "\"researches without hallucination\"",
+  "source": "https://www.lexlegis.ai/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "lighthouse-iq",
+  "field": "accuracy.claim",
+  "value": "Spectra page reports $500K case-study savings; no accuracy metric found",
+  "quote": "\"Fortune 500 Company Saves $500K\"",
+  "source": "https://www.lighthouseglobal.com/spectra"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "linksquares",
+  "field": "accuracy.claim",
+  "value": "AI Legal Assistant claims citation-backed research eliminates hallucination risk",
+  "quote": "\"eliminating the hallucination risk that makes generic AI tools unreliable\"",
+  "source": "https://linksquares.com/ai-legal-assistant"
+ },
+ {
+  "why": "contradictory statements on vendor pages",
+  "tool": "linksquares",
+  "field": "security.no_training_on_customer_data",
+  "note": "AI pages say legal work product is never used to train third-party LLM providers; SaaS TOS allows anonymized Client Data for internal AI training.",
+  "source": "https://linksquares.com/saas-terms-of-service"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "litem",
+  "field": "accuracy.claim",
+  "value": "outputs may not be error-free; customer must verify outputs",
+  "quote": "\"The Services may contain Output that is not error-free\"",
+  "source": "https://www.litem.com/legal/msa"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "litera-one",
+  "field": "accuracy.claim",
+  "value": "GenAI outputs may be inaccurate or misleading; customer must review",
+  "quote": "\"Outputs may be inaccurate or misleading\"",
+  "source": "https://www.litera.com/sites/default/files/file/2025-03/GenAI%20Terms_v.Mar2025.pdf"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "litify-ai",
+  "field": "accuracy.claim",
+  "value": "Claude 3 selected for optimal security without sacrificing accuracy and speed",
+  "quote": "\"optimal security without sacrificing accuracy and speed\"",
+  "source": "https://www.litify.com/news/litify-announces-responsible-ai-development-approach-with-aws-anthropic"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "logikcull",
+  "field": "accuracy.claim",
+  "value": "ASK uses RAG while keeping project data within Logikcull infrastructure",
+  "quote": "\"RAG architecture powers ASK while keeping project data within Logikcull's own infrastructure\"",
+  "source": "https://www.logikcull.com/guides/logikcull-ask-security-data-privacy"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "luminance",
+  "field": "accuracy.claim",
+  "value": "Claims most legally accurate AI plus 90% time savings and 98% contract-management cost reduction",
+  "quote": "\"the most legally accurate AI on the market\"",
+  "source": "https://www.luminance.com/ai-technology"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "lupl",
+  "field": "accuracy.claim",
+  "value": "No guarantee of accuracy for results or recommendations",
+  "quote": "\"NO REPRESENTATIONS, WARRANTIES, OR GUARANTEES REGARDING RESULTS OR RECOMMENDATIONS\"",
+  "source": "https://lupl.com/eula"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "merlin-alchemy",
+  "field": "accuracy.claim",
+  "value": "98% accuracy on complex privilege calls",
+  "quote": "\"with 98% accuracy on complex privilege calls\"",
+  "source": "https://www.merlin.tech/alchemy-ai/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "midpage",
+  "field": "accuracy.claim",
+  "value": "outputs must be independently verified for accuracy",
+  "quote": "\"Outputs must be independently verified for accuracy\"",
+  "source": "https://www.midpage.ai/terms-and-conditions"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "miramis",
+  "field": "accuracy.claim",
+  "value": "Outputs require human review for accuracy/completeness",
+  "quote": "\"prior human review to verify the accuracy, completeness, and appropriateness of the output\"",
+  "source": "https://miramis.co/acceptable-use-policy"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "mycase-iq",
+  "field": "accuracy.claim",
+  "value": "Outputs may sometimes be misleading or inaccurate",
+  "quote": "\"outputs from 8am IQ may sometimes be misleading or inaccurate\"",
+  "source": "https://www.mycase.com/products/legal-ai-software/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "neosai",
+  "field": "accuracy.claim",
+  "value": "Output not guaranteed accurate/complete; human review recommended",
+  "quote": "\"Output will be accurate and complete\"",
+  "source": "https://www.assemblysoftware.com/legal/terms-conditions"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "nuix-neo-discover",
+  "field": "accuracy.claim",
+  "value": "advanced data reduction reduced data by 64% on average across 50,000 cases",
+  "quote": "\"On average, across 50,000 cases\"",
+  "source": "https://www.nuix.com/solutions/neo-legal-ediscovery"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "opentext-ediscovery-aviator",
+  "field": "accuracy.claim",
+  "value": "75% cost savings, 88% faster review, 90%+ recall",
+  "quote": "\"90%+ recall with optimized workflows\"",
+  "source": "https://www.opentext.com/aviator-ai/ediscovery-aviator"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "orbital",
+  "field": "accuracy.claim",
+  "value": "accurate, domain-specific results",
+  "quote": "\"accurate, domain-specific results\"",
+  "source": "https://www.orbital.tech/uk/blog/orbital-trust-and-security"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "parrot",
+  "field": "accuracy.claim",
+  "value": "100% page:line accuracy",
+  "quote": "\"100% page:line accuracy\"",
+  "source": "https://www.parrot.us/deposition-summaries"
+ },
+ {
+  "why": "contradictory statements on vendor pages",
+  "tool": "parrot",
+  "field": "contract.provider_data_use",
+  "note": "Provider terms and Parrot product-training clauses differ.",
+  "source": "https://www.parrot.us/agreements/privacy-09-09-2024"
+ },
+ {
+  "why": "contradictory statements on vendor pages",
+  "tool": "parrot",
+  "field": "security.no_training_on_customer_data",
+  "note": "Deposition page says never used for generative AI; terms/privacy say customer data may train Parrot software or AI models.",
+  "source": "https://www.parrot.us/deposition-summaries"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "patlytics",
+  "field": "accuracy.claim",
+  "value": "safeguards against hallucinations with citations and source audits",
+  "quote": "\"safeguards against hallucinations including providing citations, auditing sources\"",
+  "source": "https://www.patlytics.ai/security"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "paxton-ai",
+  "field": "accuracy.claim",
+  "value": "93.82% average accuracy; 94.7% non-hallucination rate on Stanford Legal Hallucination Benchmark",
+  "quote": "\"accuracy of 93.82%\"",
+  "source": "https://www.paxton.ai/post/paxton-ai-achieves-94-accuracy-on-stanford-hallucination-benchmark"
+ },
+ {
+  "why": "contradictory statements on vendor pages",
+  "tool": "paxton-ai",
+  "field": "security.hipaa",
+  "note": "Security/pricing claim HIPAA standards/certified; terms say services are not tailored for HIPAA/FISMA/GLBA.",
+  "source": "https://www.paxton.ai/platform/security"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "pre-dicta",
+  "field": "accuracy.claim",
+  "value": "85% accuracy on motion prediction",
+  "quote": "\"85% accuracy on motion prediction\"",
+  "source": "https://www.pre-dicta.com/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "precisely",
+  "field": "accuracy.claim",
+  "value": "work faster with greater accuracy",
+  "quote": "\"helping you work faster with greater accuracy\"",
+  "source": "https://preciselycontracts.com/features/precisely-ai"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "purpose-legal",
+  "field": "accuracy.claim",
+  "value": "unprecedented accuracy for GenAI-enabled document review workflows",
+  "quote": "\"unprecedented accuracy, efficiency, and scalability\"",
+  "source": "https://www.purposelegal.io/purpose-legal-unveils-optimized-workflows-leveraging-genai-for-document-review/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "regology",
+  "field": "accuracy.claim",
+  "value": "Reggi responses cannot be guaranteed for accuracy/completeness/timeliness",
+  "quote": "\"the accuracy, completeness, uniformity, and timeliness of responses cannot be guaranteed\"",
+  "source": "https://www.regology.com/terms-of-service"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "relativity-air",
+  "field": "accuracy.claim",
+  "value": "citations and rationales reduce hallucination risk",
+  "quote": "\"This reduces hallucination risk and creates a clear audit trail.\"",
+  "source": "https://www.relativity.com/data-solutions/air/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "rev-legal",
+  "field": "accuracy.claim",
+  "value": "Legal Premium Transcript 99.7%+ accuracy",
+  "quote": "\"99.7%+ accuracy\"",
+  "source": "https://www.rev.com/services/legal-transcription"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "robin-ai",
+  "field": "accuracy.claim",
+  "value": "AI answers can be validated with pinpoint citations",
+  "quote": "\"AI you can validate, with pinpoint citations.\"",
+  "source": "https://robinai.com/platform"
+ },
+ {
+  "why": "contradictory statements on vendor pages",
+  "tool": "robin-ai",
+  "field": "contract.provider_data_use",
+  "note": "Contradicts security page's no-training-without-consent statement.",
+  "source": "https://robinai.com/terms"
+ },
+ {
+  "why": "contradictory statements on vendor pages",
+  "tool": "robin-ai",
+  "field": "security.no_training_on_customer_data",
+  "note": "Security says no model training without express consent; terms say inputs/outputs processed and stored for training models.",
+  "source": "https://robinai.com/security"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "rocket-lawyer",
+  "field": "accuracy.claim",
+  "value": "legal information you can trust",
+  "quote": "\"legal information you can trust\"",
+  "source": "https://www.rocketlawyer.com/rocket-copilot"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "scc-online-ai-pro",
+  "field": "accuracy.claim",
+  "value": "cited answers grounded in SCC Online database",
+  "quote": "\"get cited answers grounded in SCC Online®’s database\"",
+  "source": "https://www.scconline.com/ai-pro"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "smokeball-archie",
+  "field": "accuracy.claim",
+  "value": "findings cite their source and ambiguous items are flagged",
+  "quote": "\"Every finding cites its source and anything ambiguous gets flagged\"",
+  "source": "https://www.smokeball.com/archie-ai"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "spotdraft",
+  "field": "accuracy.claim",
+  "value": "class-leading accuracy",
+  "quote": "\"Class-leading accuracy\"",
+  "source": "https://www.spotdraft.com/products/verifai"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "steno",
+  "field": "accuracy.claim",
+  "value": "unparalleled accuracy",
+  "quote": "\"with unparalleled accuracy\"",
+  "source": "https://steno.com/technology/transcript-genius"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "streamline-ai",
+  "field": "accuracy.claim",
+  "value": "clear, accurate answers drawn from customer data",
+  "quote": "\"get a clear, accurate answer drawn from your actual requests\"",
+  "source": "https://www.streamline.ai/product/velo-copilot"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "thoughtriver",
+  "field": "accuracy.claim",
+  "value": "reviewed complex supply agreements in <3 minutes with >90% accuracy",
+  "quote": "\"less than 3 minutes with >90% accuracy\"",
+  "source": "https://www.thoughtriver.com"
+ },
+ {
+  "why": "contradictory statements on vendor pages",
+  "tool": "thoughtriver",
+  "field": "contract.subprocessors_published",
+  "note": "Security page says no external processors; data-processing page lists Microsoft Azure and Twilio.",
+  "source": "https://www.thoughtriver.com/data-processing"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "trellis-ai",
+  "field": "accuracy.claim",
+  "value": "highly reliable output",
+  "quote": "\"delivers a highly reliable output\"",
+  "source": "https://trellis.law/trellis-ai"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "visalaw-ai",
+  "field": "accuracy.claim",
+  "value": "authoritative immigration-specific AI",
+  "quote": "\"Authoritative immigration-specific AI\"",
+  "source": "https://www.visalaw.ai/pricing"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "westlaw-cocounsel",
+  "field": "accuracy.claim",
+  "value": "cited work product and traceable answers",
+  "quote": "\"delivering polished, cited work product\"",
+  "source": "https://legal.thomsonreuters.com/en/products/cocounsel-legal"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "wexler-ai",
+  "field": "accuracy.claim",
+  "value": "hallucination rate less than 0.1% in testing",
+  "quote": "\"hallucination rate to be less than 0.1%\"",
+  "source": "https://www.wexler.ai/"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "within-klarity",
+  "field": "accuracy.claim",
+  "value": "GenAI improves speed and accuracy of existing features",
+  "quote": "\"improving the speed and accuracy of the existing Within features\"",
+  "source": "https://www.within.ai/legal/gen-ai-usage"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "wordsmith",
+  "field": "accuracy.claim",
+  "value": "citations support checking AI outputs",
+  "quote": "\"Wordsmith makes this process very simple by offering citations.\"",
+  "source": "https://www.wordsmith.ai/pricing"
+ },
+ {
+  "why": "accuracy/hallucination claim — check whether a method is published before quoting on site",
+  "tool": "zuva",
+  "field": "accuracy.claim",
+  "value": "consistent, high-recall clause extraction",
+  "quote": "\"consistent, high-recall\"",
+  "source": "https://zuva.ai/docai"
+ },
+ {
+  "why": "audit disagrees with the existing site record (not applied)",
+  "tool": "claude-for-enterprise",
+  "field": "security.private_deployment",
+  "site": "no",
+  "audit": "yes",
+  "source": "https://claude.com/regional-compliance"
+ },
+ {
+  "why": "audit disagrees with the existing site record (not applied)",
+  "tool": "rev-legal",
+  "field": "security.no_training_on_customer_data",
+  "site": "no",
+  "audit": "yes",
+  "source": "https://www.rev.com/security"
+ },
+ {
+  "why": "audit disagrees with the existing site record (not applied)",
+  "tool": "verbit-legal",
+  "field": "security.no_training_on_customer_data",
+  "site": "no",
+  "audit": "yes",
+  "source": "https://verbit.ai/customer-dpa/"
+ }
+]

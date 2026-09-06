@@ -5,7 +5,7 @@
  "audited": "2026-09-06",
  "facts": [
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260201210956/https://pro.bloomberglaw.com/about/our-approach-to-ai/",
    "fact_id": "bloomberg-law-ai.accuracy.claim",
    "fetched_at": "2026-09-06",
    "field": "accuracy.claim",
@@ -21,7 +21,7 @@
    "vendor": "Bloomberg Industry Group"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260201210956/https://pro.bloomberglaw.com/about/our-approach-to-ai/",
    "fact_id": "bloomberg-law-ai.accuracy.method_published",
    "fetched_at": "2026-09-06",
    "field": "accuracy.method_published",
@@ -130,7 +130,7 @@
    "vendor": "Bloomberg Industry Group"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260201210956/https://pro.bloomberglaw.com/about/our-approach-to-ai/",
    "fact_id": "bloomberg-law-ai.contract.provider_data_use",
    "fetched_at": "2026-09-06",
    "field": "contract.provider_data_use",
@@ -208,7 +208,7 @@
    "vendor": "Bloomberg Industry Group"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20250818180140/https://pro.bloomberglaw.com/request-pricing/",
    "fact_id": "bloomberg-law-ai.pricing.free_trial",
    "fetched_at": "2026-09-06",
    "field": "pricing.free_trial",
@@ -239,7 +239,7 @@
    "vendor": "Bloomberg Industry Group"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20250818180140/https://pro.bloomberglaw.com/request-pricing/",
    "fact_id": "bloomberg-law-ai.pricing.list_price",
    "fetched_at": "2026-09-06",
    "field": "pricing.list_price",
@@ -270,7 +270,7 @@
    "vendor": "Bloomberg Industry Group"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20250818180140/https://pro.bloomberglaw.com/request-pricing/",
    "fact_id": "bloomberg-law-ai.pricing.minimum_term",
    "fetched_at": "2026-09-06",
    "field": "pricing.minimum_term",
@@ -301,7 +301,7 @@
    "vendor": "Bloomberg Industry Group"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20250818180140/https://pro.bloomberglaw.com/request-pricing/",
    "fact_id": "bloomberg-law-ai.pricing.model",
    "fetched_at": "2026-09-06",
    "field": "pricing.model",
@@ -317,7 +317,7 @@
    "vendor": "Bloomberg Industry Group"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20250818180140/https://pro.bloomberglaw.com/request-pricing/",
    "fact_id": "bloomberg-law-ai.pricing.published",
    "fetched_at": "2026-09-06",
    "field": "pricing.published",
@@ -348,7 +348,7 @@
    "vendor": "Bloomberg Industry Group"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20250818180140/https://pro.bloomberglaw.com/request-pricing/",
    "fact_id": "bloomberg-law-ai.pricing.seat_minimum",
    "fetched_at": "2026-09-06",
    "field": "pricing.seat_minimum",
@@ -379,7 +379,7 @@
    "vendor": "Bloomberg Industry Group"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260831161016/https://pro.bloomberglaw.com/",
    "fact_id": "bloomberg-law-ai.product.markets",
    "fetched_at": "2026-09-06",
    "field": "product.markets",

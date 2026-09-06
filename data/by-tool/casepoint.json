@@ -5,7 +5,7 @@
  "audited": "2026-09-06",
  "facts": [
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260602091122/https://www.casepoint.com/generative-ai-solution/",
    "fact_id": "casepoint.accuracy.claim",
    "fetched_at": "2026-09-06",
    "field": "accuracy.claim",
@@ -21,7 +21,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260602091122/https://www.casepoint.com/generative-ai-solution/",
    "fact_id": "casepoint.accuracy.method_published",
    "fetched_at": "2026-09-06",
    "field": "accuracy.method_published",
@@ -60,7 +60,7 @@
    "note": "Standard terms direct customers to the DPA/data-security URL.",
    "page_dated": null,
    "pages_checked": [],
-   "quote": "\"Data Processing Addendum\"",
+   "quote": "\"Data Processing Agreement (“DPA”)\"",
    "source_url": "https://www.casepoint.com/standard-terms-and-conditions/",
    "status": "stated",
    "tool_id": "casepoint",
@@ -130,7 +130,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260513211650/https://www.casepoint.com/privacy-policy/",
    "fact_id": "casepoint.contract.privacy_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.privacy_last_updated",
@@ -220,7 +220,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260602091122/https://www.casepoint.com/pricing/",
    "fact_id": "casepoint.pricing.free_trial",
    "fetched_at": "2026-09-06",
    "field": "pricing.free_trial",
@@ -249,7 +249,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260602091122/https://www.casepoint.com/pricing/",
    "fact_id": "casepoint.pricing.list_price",
    "fetched_at": "2026-09-06",
    "field": "pricing.list_price",
@@ -278,7 +278,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260602091122/https://www.casepoint.com/pricing/",
    "fact_id": "casepoint.pricing.minimum_term",
    "fetched_at": "2026-09-06",
    "field": "pricing.minimum_term",
@@ -307,7 +307,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260602091122/https://www.casepoint.com/pricing/",
    "fact_id": "casepoint.pricing.model",
    "fetched_at": "2026-09-06",
    "field": "pricing.model",
@@ -323,7 +323,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260602091122/https://www.casepoint.com/pricing/",
    "fact_id": "casepoint.pricing.published",
    "fetched_at": "2026-09-06",
    "field": "pricing.published",
@@ -352,7 +352,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260602091122/https://www.casepoint.com/pricing/",
    "fact_id": "casepoint.pricing.seat_minimum",
    "fetched_at": "2026-09-06",
    "field": "pricing.seat_minimum",
@@ -381,7 +381,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260513211650/https://www.casepoint.com/privacy-policy/",
    "fact_id": "casepoint.product.on_premise_option",
    "fetched_at": "2026-09-06",
    "field": "product.on_premise_option",
@@ -431,7 +431,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260602091122/https://www.casepoint.com/ediscovery-platform/data-security/",
    "fact_id": "casepoint.security.encryption_at_rest",
    "fetched_at": "2026-09-06",
    "field": "security.encryption_at_rest",
@@ -447,7 +447,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260602091122/https://www.casepoint.com/ediscovery-platform/data-security/",
    "fact_id": "casepoint.security.fedramp",
    "fetched_at": "2026-09-06",
    "field": "security.fedramp",
@@ -479,7 +479,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260602091122/https://www.casepoint.com/ediscovery-platform/data-security/",
    "fact_id": "casepoint.security.iso27001",
    "fetched_at": "2026-09-06",
    "field": "security.iso27001",
@@ -495,7 +495,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260602091122/https://www.casepoint.com/ediscovery-platform/data-security/",
    "fact_id": "casepoint.security.iso42001",
    "fetched_at": "2026-09-06",
    "field": "security.iso42001",
@@ -524,7 +524,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260602091122/https://www.casepoint.com/generative-ai-solution/",
    "fact_id": "casepoint.security.no_training_on_customer_data",
    "fetched_at": "2026-09-06",
    "field": "security.no_training_on_customer_data",
@@ -540,7 +540,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260602091122/https://www.casepoint.com/ediscovery-platform/data-security/",
    "fact_id": "casepoint.security.private_deployment",
    "fetched_at": "2026-09-06",
    "field": "security.private_deployment",
@@ -569,7 +569,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260602091122/https://www.casepoint.com/ediscovery-platform/data-security/",
    "fact_id": "casepoint.security.soc2",
    "fetched_at": "2026-09-06",
    "field": "security.soc2",
@@ -585,7 +585,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260602091122/https://www.casepoint.com/ediscovery-platform/data-security/",
    "fact_id": "casepoint.security.soc2_type",
    "fetched_at": "2026-09-06",
    "field": "security.soc2_type",
@@ -601,7 +601,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260602091122/https://www.casepoint.com/ediscovery-platform/data-security/",
    "fact_id": "casepoint.security.sso_saml",
    "fetched_at": "2026-09-06",
    "field": "security.sso_saml",
@@ -630,7 +630,7 @@
    "vendor": "Casepoint LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260602091122/https://www.casepoint.com/ediscovery-platform/data-security/",
    "fact_id": "casepoint.security.zero_retention",
    "fetched_at": "2026-09-06",
    "field": "security.zero_retention",

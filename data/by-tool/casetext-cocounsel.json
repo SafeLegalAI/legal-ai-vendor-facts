@@ -5,7 +5,7 @@
  "audited": "2026-09-06",
  "facts": [
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073647/https://www.thomsonreuters.com/en/cocounsel",
    "fact_id": "casetext-cocounsel.accuracy.claim",
    "fetched_at": "2026-09-06",
    "field": "accuracy.claim",
@@ -21,14 +21,14 @@
    "vendor": "Casetext (Thomson Reuters)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073647/https://www.thomsonreuters.com/en/cocounsel",
    "fact_id": "casetext-cocounsel.accuracy.method_published",
    "fetched_at": "2026-09-06",
    "field": "accuracy.method_published",
    "note": null,
    "page_dated": null,
    "pages_checked": [],
-   "quote": "\"prompting \"guardrails,\" ensuring our GenAI-based products\"",
+   "quote": "\"clearly defined and limited set of verified information\"",
    "source_url": "https://www.thomsonreuters.com/en/cocounsel.html",
    "status": "stated",
    "tool_id": "casetext-cocounsel",
@@ -37,7 +37,7 @@
    "vendor": "Casetext (Thomson Reuters)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20250117133308/https://www.thomsonreuters.com/en/terms-of-use.html",
    "fact_id": "casetext-cocounsel.contract.dpa_available",
    "fetched_at": "2026-09-06",
    "field": "contract.dpa_available",
@@ -70,7 +70,7 @@
    "vendor": "Casetext (Thomson Reuters)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073647/https://www.thomsonreuters.com/en/cocounsel",
    "fact_id": "casetext-cocounsel.contract.model_providers",
    "fetched_at": "2026-09-06",
    "field": "contract.model_providers",
@@ -89,7 +89,7 @@
    "vendor": "Casetext (Thomson Reuters)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20250117225722/https://www.thomsonreuters.com/en/privacy-statement.html",
    "fact_id": "casetext-cocounsel.contract.privacy_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.privacy_last_updated",
@@ -105,7 +105,7 @@
    "vendor": "Casetext (Thomson Reuters)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073647/https://www.thomsonreuters.com/en/cocounsel",
    "fact_id": "casetext-cocounsel.contract.provider_data_use",
    "fetched_at": "2026-09-06",
    "field": "contract.provider_data_use",
@@ -121,7 +121,7 @@
    "vendor": "Casetext (Thomson Reuters)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20250117133308/https://www.thomsonreuters.com/en/terms-of-use.html",
    "fact_id": "casetext-cocounsel.contract.subprocessors_published",
    "fetched_at": "2026-09-06",
    "field": "contract.subprocessors_published",
@@ -154,7 +154,7 @@
    "vendor": "Casetext (Thomson Reuters)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20250117133308/https://www.thomsonreuters.com/en/terms-of-use.html",
    "fact_id": "casetext-cocounsel.contract.terms_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.terms_last_updated",
@@ -385,7 +385,7 @@
    "vendor": "Casetext (Thomson Reuters)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072803/https://legal.thomsonreuters.com/en/products/cocounsel-legal",
    "fact_id": "casetext-cocounsel.product.integration_word",
    "fetched_at": "2026-09-06",
    "field": "product.integration_word",
@@ -401,7 +401,7 @@
    "vendor": "Casetext (Thomson Reuters)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20250313155230/https://casetext.com/robots.txt",
    "fact_id": "casetext-cocounsel.product.status",
    "fetched_at": "2026-09-06",
    "field": "product.status",
@@ -417,7 +417,7 @@
    "vendor": "Casetext (Thomson Reuters)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073647/https://www.thomsonreuters.com/en/cocounsel",
    "fact_id": "casetext-cocounsel.security.data_residency",
    "fetched_at": "2026-09-06",
    "field": "security.data_residency",
@@ -438,7 +438,7 @@
    "vendor": "Casetext (Thomson Reuters)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073647/https://www.thomsonreuters.com/en/cocounsel",
    "fact_id": "casetext-cocounsel.security.encryption_at_rest",
    "fetched_at": "2026-09-06",
    "field": "security.encryption_at_rest",
@@ -454,7 +454,7 @@
    "vendor": "Casetext (Thomson Reuters)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072803/https://legal.thomsonreuters.com/en/products/cocounsel-legal",
    "fact_id": "casetext-cocounsel.security.iso27001",
    "fetched_at": "2026-09-06",
    "field": "security.iso27001",
@@ -487,7 +487,7 @@
    "vendor": "Casetext (Thomson Reuters)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072803/https://legal.thomsonreuters.com/en/products/cocounsel-legal",
    "fact_id": "casetext-cocounsel.security.iso42001",
    "fetched_at": "2026-09-06",
    "field": "security.iso42001",
@@ -503,7 +503,7 @@
    "vendor": "Casetext (Thomson Reuters)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073647/https://www.thomsonreuters.com/en/cocounsel",
    "fact_id": "casetext-cocounsel.security.no_training_on_customer_data",
    "fetched_at": "2026-09-06",
    "field": "security.no_training_on_customer_data",
@@ -519,7 +519,7 @@
    "vendor": "Casetext (Thomson Reuters)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072803/https://legal.thomsonreuters.com/en/products/cocounsel-legal",
    "fact_id": "casetext-cocounsel.security.private_deployment",
    "fetched_at": "2026-09-06",
    "field": "security.private_deployment",
@@ -552,7 +552,7 @@
    "vendor": "Casetext (Thomson Reuters)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072803/https://legal.thomsonreuters.com/en/products/cocounsel-legal",
    "fact_id": "casetext-cocounsel.security.soc2",
    "fetched_at": "2026-09-06",
    "field": "security.soc2",
@@ -568,7 +568,7 @@
    "vendor": "Casetext (Thomson Reuters)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072803/https://legal.thomsonreuters.com/en/products/cocounsel-legal",
    "fact_id": "casetext-cocounsel.security.sso_saml",
    "fetched_at": "2026-09-06",
    "field": "security.sso_saml",
@@ -601,7 +601,7 @@
    "vendor": "Casetext (Thomson Reuters)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073647/https://www.thomsonreuters.com/en/cocounsel",
    "fact_id": "casetext-cocounsel.security.zero_retention",
    "fetched_at": "2026-09-06",
    "field": "security.zero_retention",

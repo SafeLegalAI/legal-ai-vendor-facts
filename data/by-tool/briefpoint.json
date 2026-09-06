@@ -5,14 +5,14 @@
  "audited": "2026-09-06",
  "facts": [
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260723072032/https://briefpoint.ai/terms-and-conditions/",
    "fact_id": "briefpoint.accuracy.claim",
    "fetched_at": "2026-09-06",
    "field": "accuracy.claim",
    "note": null,
    "page_dated": null,
    "pages_checked": [],
-   "quote": "\"Customer is responsible for the accuracy and content of the Input\"",
+   "quote": "\"Service may produce inaccurate or erroneous Outputs\"",
    "source_url": "https://briefpoint.ai/terms-and-conditions/",
    "status": "stated",
    "tool_id": "briefpoint",
@@ -21,7 +21,7 @@
    "vendor": "Briefpoint, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260723072032/https://briefpoint.ai/terms-and-conditions/",
    "fact_id": "briefpoint.accuracy.method_published",
    "fetched_at": "2026-09-06",
    "field": "accuracy.method_published",
@@ -51,7 +51,7 @@
    "vendor": "Briefpoint, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260723072032/https://briefpoint.ai/terms-and-conditions/",
    "fact_id": "briefpoint.contract.dpa_available",
    "fetched_at": "2026-09-06",
    "field": "contract.dpa_available",
@@ -81,7 +81,7 @@
    "vendor": "Briefpoint, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260723072032/https://briefpoint.ai/terms-and-conditions/",
    "fact_id": "briefpoint.contract.governing_law",
    "fetched_at": "2026-09-06",
    "field": "contract.governing_law",
@@ -97,7 +97,7 @@
    "vendor": "Briefpoint, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260723072032/https://briefpoint.ai/terms-and-conditions/",
    "fact_id": "briefpoint.contract.liability_cap",
    "fetched_at": "2026-09-06",
    "field": "contract.liability_cap",
@@ -113,7 +113,7 @@
    "vendor": "Briefpoint, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260723072032/https://briefpoint.ai/terms-and-conditions/",
    "fact_id": "briefpoint.contract.model_providers",
    "fetched_at": "2026-09-06",
    "field": "contract.model_providers",
@@ -143,7 +143,7 @@
    "vendor": "Briefpoint, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260723072032/https://briefpoint.ai/terms-and-conditions/",
    "fact_id": "briefpoint.contract.privacy_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.privacy_last_updated",
@@ -173,7 +173,7 @@
    "vendor": "Briefpoint, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260723072032/https://briefpoint.ai/terms-and-conditions/",
    "fact_id": "briefpoint.contract.provider_data_use",
    "fetched_at": "2026-09-06",
    "field": "contract.provider_data_use",
@@ -189,7 +189,7 @@
    "vendor": "Briefpoint, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260723072032/https://briefpoint.ai/terms-and-conditions/",
    "fact_id": "briefpoint.contract.subprocessors_published",
    "fetched_at": "2026-09-06",
    "field": "contract.subprocessors_published",
@@ -219,7 +219,7 @@
    "vendor": "Briefpoint, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260723072032/https://briefpoint.ai/terms-and-conditions/",
    "fact_id": "briefpoint.contract.terms_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.terms_last_updated",
@@ -471,7 +471,7 @@
    "vendor": "Briefpoint, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260723072032/https://briefpoint.ai/terms-and-conditions/",
    "fact_id": "briefpoint.security.hipaa",
    "fetched_at": "2026-09-06",
    "field": "security.hipaa",
@@ -607,7 +607,7 @@
    "vendor": "Briefpoint, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260723072032/https://briefpoint.ai/terms-and-conditions/",
    "fact_id": "briefpoint.security.retention_period",
    "fetched_at": "2026-09-06",
    "field": "security.retention_period",
@@ -685,7 +685,7 @@
    "vendor": "Briefpoint, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072504/https://briefpoint.ai/",
    "fact_id": "briefpoint.security.zero_retention",
    "fetched_at": "2026-09-06",
    "field": "security.zero_retention",

@@ -5,7 +5,7 @@
  "audited": "2026-09-06",
  "facts": [
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260902172526/https://www.definely.com/",
    "fact_id": "definely.accuracy.claim",
    "fetched_at": "2026-09-06",
    "field": "accuracy.claim",
@@ -21,7 +21,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260608004156/https://trust.definely.com/",
    "fact_id": "definely.accuracy.method_published",
    "fetched_at": "2026-09-06",
    "field": "accuracy.method_published",
@@ -37,7 +37,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260608004156/https://trust.definely.com/",
    "fact_id": "definely.accuracy.third_party_evaluation",
    "fetched_at": "2026-09-06",
    "field": "accuracy.third_party_evaluation",
@@ -53,7 +53,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260608004156/https://trust.definely.com/",
    "fact_id": "definely.contract.dpa_available",
    "fetched_at": "2026-09-06",
    "field": "contract.dpa_available",
@@ -69,7 +69,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260806133115/https://www.definely.com/terms-of-use",
    "fact_id": "definely.contract.governing_law",
    "fetched_at": "2026-09-06",
    "field": "contract.governing_law",
@@ -85,7 +85,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260806133115/https://www.definely.com/terms-of-use",
    "fact_id": "definely.contract.liability_cap",
    "fetched_at": "2026-09-06",
    "field": "contract.liability_cap",
@@ -101,7 +101,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260806133115/https://www.definely.com/terms-of-use",
    "fact_id": "definely.contract.model_providers",
    "fetched_at": "2026-09-06",
    "field": "contract.model_providers",
@@ -135,7 +135,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260806133115/https://www.definely.com/terms-of-use",
    "fact_id": "definely.contract.privacy_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.privacy_last_updated",
@@ -169,7 +169,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073510/https://www.definely.com/privacy-policy",
    "fact_id": "definely.contract.provider_data_use",
    "fetched_at": "2026-09-06",
    "field": "contract.provider_data_use",
@@ -219,7 +219,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260806133115/https://www.definely.com/terms-of-use",
    "fact_id": "definely.contract.terms_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.terms_last_updated",
@@ -235,7 +235,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20220809104720/https://www.definely.com/pricing",
    "fact_id": "definely.pricing.free_trial",
    "fetched_at": "2026-09-06",
    "field": "pricing.free_trial",
@@ -269,7 +269,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20220809104720/https://www.definely.com/pricing",
    "fact_id": "definely.pricing.list_price",
    "fetched_at": "2026-09-06",
    "field": "pricing.list_price",
@@ -303,7 +303,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20220809104720/https://www.definely.com/pricing",
    "fact_id": "definely.pricing.minimum_term",
    "fetched_at": "2026-09-06",
    "field": "pricing.minimum_term",
@@ -337,7 +337,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20220809104720/https://www.definely.com/pricing",
    "fact_id": "definely.pricing.model",
    "fetched_at": "2026-09-06",
    "field": "pricing.model",
@@ -371,7 +371,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20220809104720/https://www.definely.com/pricing",
    "fact_id": "definely.pricing.published",
    "fetched_at": "2026-09-06",
    "field": "pricing.published",
@@ -405,7 +405,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20220809104720/https://www.definely.com/pricing",
    "fact_id": "definely.pricing.seat_minimum",
    "fetched_at": "2026-09-06",
    "field": "pricing.seat_minimum",
@@ -439,7 +439,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073536/https://www.definely.com/join-us",
    "fact_id": "definely.product.integration_word",
    "fetched_at": "2026-09-06",
    "field": "product.integration_word",
@@ -455,7 +455,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260608004156/https://trust.definely.com/",
    "fact_id": "definely.security.audit_logs",
    "fetched_at": "2026-09-06",
    "field": "security.audit_logs",
@@ -471,7 +471,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260608004156/https://trust.definely.com/",
    "fact_id": "definely.security.cyber_essentials",
    "fetched_at": "2026-09-06",
    "field": "security.cyber_essentials",
@@ -487,7 +487,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073510/https://www.definely.com/privacy-policy",
    "fact_id": "definely.security.data_residency",
    "fetched_at": "2026-09-06",
    "field": "security.data_residency",
@@ -509,7 +509,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260608004156/https://trust.definely.com/",
    "fact_id": "definely.security.encryption_at_rest",
    "fetched_at": "2026-09-06",
    "field": "security.encryption_at_rest",
@@ -543,7 +543,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260608004156/https://trust.definely.com/",
    "fact_id": "definely.security.iso27001",
    "fetched_at": "2026-09-06",
    "field": "security.iso27001",
@@ -559,7 +559,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260608004156/https://trust.definely.com/",
    "fact_id": "definely.security.iso42001",
    "fetched_at": "2026-09-06",
    "field": "security.iso42001",
@@ -575,7 +575,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260608004156/https://trust.definely.com/",
    "fact_id": "definely.security.no_training_on_customer_data",
    "fetched_at": "2026-09-06",
    "field": "security.no_training_on_customer_data",
@@ -609,7 +609,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260608004156/https://trust.definely.com/",
    "fact_id": "definely.security.pen_test",
    "fetched_at": "2026-09-06",
    "field": "security.pen_test",
@@ -625,7 +625,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260608004156/https://trust.definely.com/",
    "fact_id": "definely.security.private_deployment",
    "fetched_at": "2026-09-06",
    "field": "security.private_deployment",
@@ -659,7 +659,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260608004156/https://trust.definely.com/",
    "fact_id": "definely.security.soc2",
    "fetched_at": "2026-09-06",
    "field": "security.soc2",
@@ -675,7 +675,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260608004156/https://trust.definely.com/",
    "fact_id": "definely.security.soc2_type",
    "fetched_at": "2026-09-06",
    "field": "security.soc2_type",
@@ -691,7 +691,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260608004156/https://trust.definely.com/",
    "fact_id": "definely.security.sso_saml",
    "fetched_at": "2026-09-06",
    "field": "security.sso_saml",
@@ -725,7 +725,7 @@
    "vendor": "Definely Ltd"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260608004156/https://trust.definely.com/",
    "fact_id": "definely.security.zero_retention",
    "fetched_at": "2026-09-06",
    "field": "security.zero_retention",

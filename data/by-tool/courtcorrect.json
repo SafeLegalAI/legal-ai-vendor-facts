@@ -5,7 +5,7 @@
  "audited": "2026-09-06",
  "facts": [
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260517055948/https://www.courtcorrect.com/legal/ai-safety-policy",
    "fact_id": "courtcorrect.accuracy.claim",
    "fetched_at": "2026-09-06",
    "field": "accuracy.claim",
@@ -21,7 +21,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260517055948/https://www.courtcorrect.com/legal/ai-safety-policy",
    "fact_id": "courtcorrect.accuracy.method_published",
    "fetched_at": "2026-09-06",
    "field": "accuracy.method_published",
@@ -37,7 +37,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260614133727/https://www.courtcorrect.com/legal/data-processing-agreement",
    "fact_id": "courtcorrect.contract.audit_rights",
    "fetched_at": "2026-09-06",
    "field": "contract.audit_rights",
@@ -53,7 +53,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260614133727/https://www.courtcorrect.com/legal/data-processing-agreement",
    "fact_id": "courtcorrect.contract.dpa_available",
    "fetched_at": "2026-09-06",
    "field": "contract.dpa_available",
@@ -69,7 +69,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073317/https://www.courtcorrect.com/legal/terms-and-conditions",
    "fact_id": "courtcorrect.contract.model_providers",
    "fetched_at": "2026-09-06",
    "field": "contract.model_providers",
@@ -97,7 +97,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260614125616/https://www.courtcorrect.com/legal/privacy-policy",
    "fact_id": "courtcorrect.contract.privacy_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.privacy_last_updated",
@@ -113,7 +113,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260614133727/https://www.courtcorrect.com/legal/data-processing-agreement",
    "fact_id": "courtcorrect.contract.provider_data_use",
    "fetched_at": "2026-09-06",
    "field": "contract.provider_data_use",
@@ -157,7 +157,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073317/https://www.courtcorrect.com/legal/terms-and-conditions",
    "fact_id": "courtcorrect.contract.terms_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.terms_last_updated",
@@ -173,7 +173,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073336/https://www.courtcorrect.com/pricing",
    "fact_id": "courtcorrect.pricing.free_trial",
    "fetched_at": "2026-09-06",
    "field": "pricing.free_trial",
@@ -189,7 +189,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073336/https://www.courtcorrect.com/pricing",
    "fact_id": "courtcorrect.pricing.list_price",
    "fetched_at": "2026-09-06",
    "field": "pricing.list_price",
@@ -205,7 +205,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073336/https://www.courtcorrect.com/pricing",
    "fact_id": "courtcorrect.pricing.minimum_term",
    "fetched_at": "2026-09-06",
    "field": "pricing.minimum_term",
@@ -233,14 +233,14 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073336/https://www.courtcorrect.com/pricing",
    "fact_id": "courtcorrect.pricing.model",
    "fetched_at": "2026-09-06",
    "field": "pricing.model",
    "note": null,
    "page_dated": null,
    "pages_checked": [],
-   "quote": "\"£99.00\"",
+   "quote": "\"per user\"",
    "source_url": "https://www.courtcorrect.com/pricing",
    "status": "stated",
    "tool_id": "courtcorrect",
@@ -249,7 +249,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073336/https://www.courtcorrect.com/pricing",
    "fact_id": "courtcorrect.pricing.published",
    "fetched_at": "2026-09-06",
    "field": "pricing.published",
@@ -265,7 +265,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073336/https://www.courtcorrect.com/pricing",
    "fact_id": "courtcorrect.pricing.seat_minimum",
    "fetched_at": "2026-09-06",
    "field": "pricing.seat_minimum",
@@ -293,7 +293,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260614133727/https://www.courtcorrect.com/legal/data-processing-agreement",
    "fact_id": "courtcorrect.security.audit_logs",
    "fetched_at": "2026-09-06",
    "field": "security.audit_logs",
@@ -309,7 +309,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260614133727/https://www.courtcorrect.com/legal/data-processing-agreement",
    "fact_id": "courtcorrect.security.breach_notification_hours",
    "fetched_at": "2026-09-06",
    "field": "security.breach_notification_hours",
@@ -325,7 +325,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260614133727/https://www.courtcorrect.com/legal/data-processing-agreement",
    "fact_id": "courtcorrect.security.data_residency",
    "fetched_at": "2026-09-06",
    "field": "security.data_residency",
@@ -353,7 +353,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260614133727/https://www.courtcorrect.com/legal/data-processing-agreement",
    "fact_id": "courtcorrect.security.encryption_at_rest",
    "fetched_at": "2026-09-06",
    "field": "security.encryption_at_rest",
@@ -369,7 +369,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260614133727/https://www.courtcorrect.com/legal/data-processing-agreement",
    "fact_id": "courtcorrect.security.iso27001",
    "fetched_at": "2026-09-06",
    "field": "security.iso27001",
@@ -397,7 +397,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260614133727/https://www.courtcorrect.com/legal/data-processing-agreement",
    "fact_id": "courtcorrect.security.iso42001",
    "fetched_at": "2026-09-06",
    "field": "security.iso42001",
@@ -425,7 +425,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260614133727/https://www.courtcorrect.com/legal/data-processing-agreement",
    "fact_id": "courtcorrect.security.no_training_on_customer_data",
    "fetched_at": "2026-09-06",
    "field": "security.no_training_on_customer_data",
@@ -441,7 +441,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260614133727/https://www.courtcorrect.com/legal/data-processing-agreement",
    "fact_id": "courtcorrect.security.private_deployment",
    "fetched_at": "2026-09-06",
    "field": "security.private_deployment",
@@ -469,7 +469,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260614133727/https://www.courtcorrect.com/legal/data-processing-agreement",
    "fact_id": "courtcorrect.security.retention_period",
    "fetched_at": "2026-09-06",
    "field": "security.retention_period",
@@ -485,7 +485,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260614133727/https://www.courtcorrect.com/legal/data-processing-agreement",
    "fact_id": "courtcorrect.security.soc2",
    "fetched_at": "2026-09-06",
    "field": "security.soc2",
@@ -513,7 +513,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260517063431/https://www.courtcorrect.com/integrations/microsoft-entra",
    "fact_id": "courtcorrect.security.sso_saml",
    "fetched_at": "2026-09-06",
    "field": "security.sso_saml",
@@ -529,7 +529,7 @@
    "vendor": "CourtCorrect Ltd."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260614133727/https://www.courtcorrect.com/legal/data-processing-agreement",
    "fact_id": "courtcorrect.security.zero_retention",
    "fetched_at": "2026-09-06",
    "field": "security.zero_retention",

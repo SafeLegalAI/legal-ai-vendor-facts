@@ -5,7 +5,7 @@
  "audited": "2026-09-06",
  "facts": [
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260506224253/https://www.counselstack.com/legal-citator-api",
    "fact_id": "counsel-stack.accuracy.claim",
    "fetched_at": "2026-09-06",
    "field": "accuracy.claim",
@@ -21,15 +21,15 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260506224304/https://www.counselstack.com/legal-data",
    "fact_id": "counsel-stack.accuracy.method_published",
    "fetched_at": "2026-09-06",
    "field": "accuracy.method_published",
    "note": null,
    "page_dated": null,
    "pages_checked": [],
-   "quote": "\"properly encoding the “method” behind the madness\"",
-   "source_url": "https://www.counselstack.com/pricing",
+   "quote": "\"Every pipeline ships with its own verification index\"",
+   "source_url": "https://www.counselstack.com/legal-data",
    "status": "stated",
    "tool_id": "counsel-stack",
    "tool_name": "Counsel Stack",
@@ -37,7 +37,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260519215149/https://www.counselstack.com/terms",
    "fact_id": "counsel-stack.contract.dpa_available",
    "fetched_at": "2026-09-06",
    "field": "contract.dpa_available",
@@ -66,7 +66,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260519215149/https://www.counselstack.com/terms",
    "fact_id": "counsel-stack.contract.governing_law",
    "fetched_at": "2026-09-06",
    "field": "contract.governing_law",
@@ -82,7 +82,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260519215149/https://www.counselstack.com/terms",
    "fact_id": "counsel-stack.contract.model_providers",
    "fetched_at": "2026-09-06",
    "field": "contract.model_providers",
@@ -111,7 +111,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260519215149/https://www.counselstack.com/terms",
    "fact_id": "counsel-stack.contract.privacy_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.privacy_last_updated",
@@ -140,7 +140,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073225/https://www.counselstack.com/privacy-policy",
    "fact_id": "counsel-stack.contract.provider_data_use",
    "fetched_at": "2026-09-06",
    "field": "contract.provider_data_use",
@@ -156,7 +156,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260519215149/https://www.counselstack.com/terms",
    "fact_id": "counsel-stack.contract.subprocessors_published",
    "fetched_at": "2026-09-06",
    "field": "contract.subprocessors_published",
@@ -185,7 +185,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260519215149/https://www.counselstack.com/terms",
    "fact_id": "counsel-stack.contract.terms_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.terms_last_updated",
@@ -214,7 +214,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073207/https://www.counselstack.com/",
    "fact_id": "counsel-stack.pricing.free_trial",
    "fetched_at": "2026-09-06",
    "field": "pricing.free_trial",
@@ -243,7 +243,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073207/https://www.counselstack.com/",
    "fact_id": "counsel-stack.pricing.list_price",
    "fetched_at": "2026-09-06",
    "field": "pricing.list_price",
@@ -259,7 +259,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073207/https://www.counselstack.com/",
    "fact_id": "counsel-stack.pricing.minimum_term",
    "fetched_at": "2026-09-06",
    "field": "pricing.minimum_term",
@@ -288,7 +288,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073207/https://www.counselstack.com/",
    "fact_id": "counsel-stack.pricing.model",
    "fetched_at": "2026-09-06",
    "field": "pricing.model",
@@ -304,7 +304,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073207/https://www.counselstack.com/",
    "fact_id": "counsel-stack.pricing.published",
    "fetched_at": "2026-09-06",
    "field": "pricing.published",
@@ -320,7 +320,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073207/https://www.counselstack.com/",
    "fact_id": "counsel-stack.pricing.seat_minimum",
    "fetched_at": "2026-09-06",
    "field": "pricing.seat_minimum",
@@ -349,7 +349,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260519215149/https://www.counselstack.com/terms",
    "fact_id": "counsel-stack.product.markets",
    "fetched_at": "2026-09-06",
    "field": "product.markets",
@@ -368,7 +368,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260506224304/https://www.counselstack.com/legal-data",
    "fact_id": "counsel-stack.product.on_premise_option",
    "fetched_at": "2026-09-06",
    "field": "product.on_premise_option",
@@ -384,7 +384,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073225/https://www.counselstack.com/privacy-policy",
    "fact_id": "counsel-stack.security.data_residency",
    "fetched_at": "2026-09-06",
    "field": "security.data_residency",
@@ -402,7 +402,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073225/https://www.counselstack.com/privacy-policy",
    "fact_id": "counsel-stack.security.encryption_at_rest",
    "fetched_at": "2026-09-06",
    "field": "security.encryption_at_rest",
@@ -431,7 +431,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073225/https://www.counselstack.com/privacy-policy",
    "fact_id": "counsel-stack.security.iso27001",
    "fetched_at": "2026-09-06",
    "field": "security.iso27001",
@@ -460,7 +460,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073225/https://www.counselstack.com/privacy-policy",
    "fact_id": "counsel-stack.security.iso42001",
    "fetched_at": "2026-09-06",
    "field": "security.iso42001",
@@ -489,7 +489,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073225/https://www.counselstack.com/privacy-policy",
    "fact_id": "counsel-stack.security.no_training_on_customer_data",
    "fetched_at": "2026-09-06",
    "field": "security.no_training_on_customer_data",
@@ -518,7 +518,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073207/https://www.counselstack.com/",
    "fact_id": "counsel-stack.security.private_deployment",
    "fetched_at": "2026-09-06",
    "field": "security.private_deployment",
@@ -534,7 +534,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073225/https://www.counselstack.com/privacy-policy",
    "fact_id": "counsel-stack.security.soc2",
    "fetched_at": "2026-09-06",
    "field": "security.soc2",
@@ -563,7 +563,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073225/https://www.counselstack.com/privacy-policy",
    "fact_id": "counsel-stack.security.sso_saml",
    "fetched_at": "2026-09-06",
    "field": "security.sso_saml",
@@ -592,7 +592,7 @@
    "vendor": "Counsel Stack, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073225/https://www.counselstack.com/privacy-policy",
    "fact_id": "counsel-stack.security.zero_retention",
    "fetched_at": "2026-09-06",
    "field": "security.zero_retention",

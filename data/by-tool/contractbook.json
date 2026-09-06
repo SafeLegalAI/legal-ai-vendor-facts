@@ -5,7 +5,7 @@
  "audited": "2026-09-06",
  "facts": [
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260829024815/https://contractbook.com/pricing",
    "fact_id": "contractbook.accuracy.claim",
    "fetched_at": "2026-09-06",
    "field": "accuracy.claim",
@@ -21,7 +21,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260606062804/https://contractbook.com/product/ai-contract-assistant",
    "fact_id": "contractbook.accuracy.method_published",
    "fetched_at": "2026-09-06",
    "field": "accuracy.method_published",
@@ -52,7 +52,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260606062751/https://contractbook.com/legal/terms",
    "fact_id": "contractbook.contract.dpa_available",
    "fetched_at": "2026-09-06",
    "field": "contract.dpa_available",
@@ -68,7 +68,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260606062751/https://contractbook.com/legal/terms",
    "fact_id": "contractbook.contract.governing_law",
    "fetched_at": "2026-09-06",
    "field": "contract.governing_law",
@@ -84,7 +84,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260606062751/https://contractbook.com/legal/terms",
    "fact_id": "contractbook.contract.liability_cap",
    "fetched_at": "2026-09-06",
    "field": "contract.liability_cap",
@@ -100,7 +100,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260606062751/https://contractbook.com/legal/terms",
    "fact_id": "contractbook.contract.model_providers",
    "fetched_at": "2026-09-06",
    "field": "contract.model_providers",
@@ -131,7 +131,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260613160159/https://contractbook.com/legal/privacy-policy",
    "fact_id": "contractbook.contract.privacy_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.privacy_last_updated",
@@ -147,7 +147,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260606062751/https://contractbook.com/legal/terms",
    "fact_id": "contractbook.contract.provider_data_use",
    "fetched_at": "2026-09-06",
    "field": "contract.provider_data_use",
@@ -194,7 +194,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260606062751/https://contractbook.com/legal/terms",
    "fact_id": "contractbook.contract.terms_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.terms_last_updated",
@@ -210,7 +210,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260829024815/https://contractbook.com/pricing",
    "fact_id": "contractbook.pricing.free_tier",
    "fetched_at": "2026-09-06",
    "field": "pricing.free_tier",
@@ -226,7 +226,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260829024815/https://contractbook.com/pricing",
    "fact_id": "contractbook.pricing.free_trial",
    "fetched_at": "2026-09-06",
    "field": "pricing.free_trial",
@@ -242,7 +242,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260829024815/https://contractbook.com/pricing",
    "fact_id": "contractbook.pricing.list_price",
    "fetched_at": "2026-09-06",
    "field": "pricing.list_price",
@@ -258,7 +258,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260829024815/https://contractbook.com/pricing",
    "fact_id": "contractbook.pricing.minimum_term",
    "fetched_at": "2026-09-06",
    "field": "pricing.minimum_term",
@@ -289,7 +289,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260829024815/https://contractbook.com/pricing",
    "fact_id": "contractbook.pricing.model",
    "fetched_at": "2026-09-06",
    "field": "pricing.model",
@@ -305,7 +305,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260829024815/https://contractbook.com/pricing",
    "fact_id": "contractbook.pricing.published",
    "fetched_at": "2026-09-06",
    "field": "pricing.published",
@@ -321,7 +321,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260829024815/https://contractbook.com/pricing",
    "fact_id": "contractbook.pricing.seat_minimum",
    "fetched_at": "2026-09-06",
    "field": "pricing.seat_minimum",
@@ -337,7 +337,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260419022730/https://contractbook.com/ai-policy-page",
    "fact_id": "contractbook.product.markets",
    "fetched_at": "2026-09-06",
    "field": "product.markets",
@@ -356,7 +356,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072707/https://contractbook.com/product/security",
    "fact_id": "contractbook.security.data_residency",
    "fetched_at": "2026-09-06",
    "field": "security.data_residency",
@@ -387,7 +387,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072707/https://contractbook.com/product/security",
    "fact_id": "contractbook.security.encryption_at_rest",
    "fetched_at": "2026-09-06",
    "field": "security.encryption_at_rest",
@@ -418,7 +418,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072707/https://contractbook.com/product/security",
    "fact_id": "contractbook.security.iso27001",
    "fetched_at": "2026-09-06",
    "field": "security.iso27001",
@@ -449,7 +449,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072707/https://contractbook.com/product/security",
    "fact_id": "contractbook.security.iso42001",
    "fetched_at": "2026-09-06",
    "field": "security.iso42001",
@@ -480,7 +480,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260606062751/https://contractbook.com/legal/terms",
    "fact_id": "contractbook.security.no_training_on_customer_data",
    "fetched_at": "2026-09-06",
    "field": "security.no_training_on_customer_data",
@@ -496,7 +496,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072707/https://contractbook.com/product/security",
    "fact_id": "contractbook.security.pen_test",
    "fetched_at": "2026-09-06",
    "field": "security.pen_test",
@@ -512,7 +512,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072707/https://contractbook.com/product/security",
    "fact_id": "contractbook.security.private_deployment",
    "fetched_at": "2026-09-06",
    "field": "security.private_deployment",
@@ -543,7 +543,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072707/https://contractbook.com/product/security",
    "fact_id": "contractbook.security.soc2",
    "fetched_at": "2026-09-06",
    "field": "security.soc2",
@@ -559,7 +559,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260829024815/https://contractbook.com/pricing",
    "fact_id": "contractbook.security.soc2_type",
    "fetched_at": "2026-09-06",
    "field": "security.soc2_type",
@@ -575,7 +575,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260829024815/https://contractbook.com/pricing",
    "fact_id": "contractbook.security.sso_saml",
    "fetched_at": "2026-09-06",
    "field": "security.sso_saml",
@@ -591,7 +591,7 @@
    "vendor": "Contractbook ApS (Scrive)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072707/https://contractbook.com/product/security",
    "fact_id": "contractbook.security.zero_retention",
    "fetched_at": "2026-09-06",
    "field": "security.zero_retention",

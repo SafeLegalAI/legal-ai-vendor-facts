@@ -5,7 +5,7 @@
  "audited": "2026-09-06",
  "facts": [
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260806134521/https://avvoka.com/",
    "fact_id": "avvoka.accuracy.claim",
    "fetched_at": "2026-09-06",
    "field": "accuracy.claim",
@@ -39,7 +39,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260806134521/https://avvoka.com/",
    "fact_id": "avvoka.accuracy.method_published",
    "fetched_at": "2026-09-06",
    "field": "accuracy.method_published",
@@ -73,7 +73,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260513072222/https://avvoka.com/terms-conditions",
    "fact_id": "avvoka.contract.dpa_available",
    "fetched_at": "2026-09-06",
    "field": "contract.dpa_available",
@@ -107,7 +107,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072428/https://3063515.fs1.hubspotusercontent-na1.net/hubfs/3063515/Terms%20and%20conditions%20Current/Approved-Sub-Processors-25.2.2026.pdf",
    "fact_id": "avvoka.contract.model_providers",
    "fetched_at": "2026-09-06",
    "field": "contract.model_providers",
@@ -128,7 +128,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260513072222/https://avvoka.com/terms-conditions",
    "fact_id": "avvoka.contract.privacy_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.privacy_last_updated",
@@ -162,7 +162,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072428/https://3063515.fs1.hubspotusercontent-na1.net/hubfs/3063515/Terms%20and%20conditions%20Current/Approved-Sub-Processors-25.2.2026.pdf",
    "fact_id": "avvoka.contract.provider_data_use",
    "fetched_at": "2026-09-06",
    "field": "contract.provider_data_use",
@@ -178,7 +178,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072428/https://3063515.fs1.hubspotusercontent-na1.net/hubfs/3063515/Terms%20and%20conditions%20Current/Approved-Sub-Processors-25.2.2026.pdf",
    "fact_id": "avvoka.contract.subprocessors_published",
    "fetched_at": "2026-09-06",
    "field": "contract.subprocessors_published",
@@ -194,7 +194,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260513072222/https://avvoka.com/terms-conditions",
    "fact_id": "avvoka.contract.terms_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.terms_last_updated",
@@ -228,7 +228,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230518022549/https://avvoka.com/pricing/",
    "fact_id": "avvoka.pricing.free_trial",
    "fetched_at": "2026-09-06",
    "field": "pricing.free_trial",
@@ -262,7 +262,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230518022549/https://avvoka.com/pricing/",
    "fact_id": "avvoka.pricing.list_price",
    "fetched_at": "2026-09-06",
    "field": "pricing.list_price",
@@ -296,7 +296,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230518022549/https://avvoka.com/pricing/",
    "fact_id": "avvoka.pricing.minimum_term",
    "fetched_at": "2026-09-06",
    "field": "pricing.minimum_term",
@@ -330,7 +330,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230518022549/https://avvoka.com/pricing/",
    "fact_id": "avvoka.pricing.model",
    "fetched_at": "2026-09-06",
    "field": "pricing.model",
@@ -364,7 +364,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230518022549/https://avvoka.com/pricing/",
    "fact_id": "avvoka.pricing.published",
    "fetched_at": "2026-09-06",
    "field": "pricing.published",
@@ -398,7 +398,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230518022549/https://avvoka.com/pricing/",
    "fact_id": "avvoka.pricing.seat_minimum",
    "fetched_at": "2026-09-06",
    "field": "pricing.seat_minimum",
@@ -464,22 +464,25 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072428/https://3063515.fs1.hubspotusercontent-na1.net/hubfs/3063515/Terms%20and%20conditions%20Current/Approved-Sub-Processors-25.2.2026.pdf",
    "fact_id": "avvoka.security.data_residency",
    "fetched_at": "2026-09-06",
    "field": "security.data_residency",
-   "note": "Infrastructure providers listed, not a contractual residency guarantee.",
-   "page_dated": null,
+   "note": "Locations are from the approved subprocessor list; not framed as customer-selectable residency.",
+   "page_dated": "2026-02-25",
    "pages_checked": [],
-   "quote": "\"AWS, OVH and Azure datacentres\"",
-   "source_url": "https://avvoka.com/security",
+   "quote": "\"United States; OVH Groupe SA\"",
+   "source_url": "https://3063515.fs1.hubspotusercontent-na1.net/hubfs/3063515/Terms%20and%20conditions%20Current/Approved-Sub-Processors-25.2.2026.pdf",
    "status": "stated",
    "tool_id": "avvoka",
    "tool_name": "Avvoka",
    "value": [
-    "OVH",
-    "AWS",
-    "Microsoft Azure"
+    "UK",
+    "US",
+    "France",
+    "Canada",
+    "Ireland",
+    "Europe"
    ],
    "vendor": "Avvoka"
   },
@@ -500,7 +503,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260806134322/https://avvoka.com/security",
    "fact_id": "avvoka.security.iso27001",
    "fetched_at": "2026-09-06",
    "field": "security.iso27001",
@@ -516,7 +519,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260806134322/https://avvoka.com/security",
    "fact_id": "avvoka.security.iso42001",
    "fetched_at": "2026-09-06",
    "field": "security.iso42001",
@@ -550,7 +553,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260806134322/https://avvoka.com/security",
    "fact_id": "avvoka.security.no_training_on_customer_data",
    "fetched_at": "2026-09-06",
    "field": "security.no_training_on_customer_data",
@@ -584,14 +587,14 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260806134322/https://avvoka.com/security",
    "fact_id": "avvoka.security.pen_test",
    "fetched_at": "2026-09-06",
    "field": "security.pen_test",
    "note": null,
    "page_dated": null,
    "pages_checked": [],
-   "quote": "\"regular penetration tests, performed by a third party\"",
+   "quote": "\"black-box penetration testing\"",
    "source_url": "https://avvoka.com/security",
    "status": "stated",
    "tool_id": "avvoka",
@@ -600,7 +603,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260806134322/https://avvoka.com/security",
    "fact_id": "avvoka.security.private_deployment",
    "fetched_at": "2026-09-06",
    "field": "security.private_deployment",
@@ -650,7 +653,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260806134322/https://avvoka.com/security",
    "fact_id": "avvoka.security.soc2",
    "fetched_at": "2026-09-06",
    "field": "security.soc2",
@@ -700,7 +703,7 @@
    "vendor": "Avvoka"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906072428/https://3063515.fs1.hubspotusercontent-na1.net/hubfs/3063515/Terms%20and%20conditions%20Current/Approved-Sub-Processors-25.2.2026.pdf",
    "fact_id": "avvoka.security.zero_retention",
    "fetched_at": "2026-09-06",
    "field": "security.zero_retention",

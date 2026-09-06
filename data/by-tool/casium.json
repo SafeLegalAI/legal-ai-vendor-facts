@@ -5,7 +5,7 @@
  "audited": "2026-09-06",
  "facts": [
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073105/https://www.casium.com/terms-of-service-2",
    "fact_id": "casium.accuracy.claim",
    "fetched_at": "2026-09-06",
    "field": "accuracy.claim",
@@ -21,7 +21,7 @@
    "vendor": "Casium, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073105/https://www.casium.com/terms-of-service-2",
    "fact_id": "casium.accuracy.method_published",
    "fetched_at": "2026-09-06",
    "field": "accuracy.method_published",
@@ -46,7 +46,7 @@
    "vendor": "Casium, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073105/https://www.casium.com/terms-of-service-2",
    "fact_id": "casium.contract.dpa_available",
    "fetched_at": "2026-09-06",
    "field": "contract.dpa_available",
@@ -71,7 +71,7 @@
    "vendor": "Casium, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073105/https://www.casium.com/terms-of-service-2",
    "fact_id": "casium.contract.governing_law",
    "fetched_at": "2026-09-06",
    "field": "contract.governing_law",
@@ -87,7 +87,7 @@
    "vendor": "Casium, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073105/https://www.casium.com/terms-of-service-2",
    "fact_id": "casium.contract.liability_cap",
    "fetched_at": "2026-09-06",
    "field": "contract.liability_cap",
@@ -103,7 +103,7 @@
    "vendor": "Casium, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073105/https://www.casium.com/terms-of-service-2",
    "fact_id": "casium.contract.model_providers",
    "fetched_at": "2026-09-06",
    "field": "contract.model_providers",
@@ -128,7 +128,7 @@
    "vendor": "Casium, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20250814121925/https://www.casium.com/privacy-policy",
    "fact_id": "casium.contract.privacy_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.privacy_last_updated",
@@ -144,7 +144,7 @@
    "vendor": "Casium, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20250814121925/https://www.casium.com/privacy-policy",
    "fact_id": "casium.contract.provider_data_use",
    "fetched_at": "2026-09-06",
    "field": "contract.provider_data_use",
@@ -160,7 +160,7 @@
    "vendor": "Casium, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073105/https://www.casium.com/terms-of-service-2",
    "fact_id": "casium.contract.subprocessors_published",
    "fetched_at": "2026-09-06",
    "field": "contract.subprocessors_published",
@@ -185,7 +185,7 @@
    "vendor": "Casium, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073105/https://www.casium.com/terms-of-service-2",
    "fact_id": "casium.contract.terms_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.terms_last_updated",
@@ -285,7 +285,7 @@
    "vendor": "Casium, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073105/https://www.casium.com/terms-of-service-2",
    "fact_id": "casium.pricing.model",
    "fetched_at": "2026-09-06",
    "field": "pricing.model",
@@ -351,7 +351,7 @@
    "vendor": "Casium, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260521173745/https://www.casium.com/",
    "fact_id": "casium.product.markets",
    "fetched_at": "2026-09-06",
    "field": "product.markets",
@@ -370,7 +370,7 @@
    "vendor": "Casium, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260906073105/https://www.casium.com/terms-of-service-2",
    "fact_id": "casium.product.status",
    "fetched_at": "2026-09-06",
    "field": "product.status",
@@ -386,7 +386,7 @@
    "vendor": "Casium, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20250814121925/https://www.casium.com/privacy-policy",
    "fact_id": "casium.security.data_residency",
    "fetched_at": "2026-09-06",
    "field": "security.data_residency",
@@ -479,7 +479,7 @@
    "vendor": "Casium, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20250814121925/https://www.casium.com/privacy-policy",
    "fact_id": "casium.security.no_training_on_customer_data",
    "fetched_at": "2026-09-06",
    "field": "security.no_training_on_customer_data",
@@ -520,7 +520,7 @@
    "vendor": "Casium, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260521173745/https://www.casium.com/",
    "fact_id": "casium.security.soc2",
    "fetched_at": "2026-09-06",
    "field": "security.soc2",

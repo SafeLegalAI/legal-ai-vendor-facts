@@ -5,7 +5,7 @@
  "audited": "2026-09-06",
  "facts": [
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260904191641/https://www.casemine.com/",
    "fact_id": "casemine-amicus.accuracy.claim",
    "fetched_at": "2026-09-06",
    "field": "accuracy.claim",
@@ -34,7 +34,7 @@
    "vendor": "Gauge Data Solutions Pvt. Ltd. (CaseMine)"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260904191641/https://www.casemine.com/",
    "fact_id": "casemine-amicus.accuracy.method_published",
    "fetched_at": "2026-09-06",
    "field": "accuracy.method_published",

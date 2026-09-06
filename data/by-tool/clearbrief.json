@@ -5,7 +5,7 @@
  "audited": "2026-09-06",
  "facts": [
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230206040822/https://clearbrief.com/pricing",
    "fact_id": "clearbrief.accuracy.claim",
    "fetched_at": "2026-09-06",
    "field": "accuracy.claim",
@@ -21,7 +21,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230206040822/https://clearbrief.com/pricing",
    "fact_id": "clearbrief.accuracy.method_published",
    "fetched_at": "2026-09-06",
    "field": "accuracy.method_published",
@@ -37,7 +37,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260831055643/https://clearbrief.com/terms",
    "fact_id": "clearbrief.contract.dpa_available",
    "fetched_at": "2026-09-06",
    "field": "contract.dpa_available",
@@ -66,7 +66,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260831055643/https://clearbrief.com/terms",
    "fact_id": "clearbrief.contract.governing_law",
    "fetched_at": "2026-09-06",
    "field": "contract.governing_law",
@@ -82,7 +82,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260831055643/https://clearbrief.com/terms",
    "fact_id": "clearbrief.contract.liability_cap",
    "fetched_at": "2026-09-06",
    "field": "contract.liability_cap",
@@ -98,7 +98,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260831055643/https://clearbrief.com/terms",
    "fact_id": "clearbrief.contract.model_providers",
    "fetched_at": "2026-09-06",
    "field": "contract.model_providers",
@@ -127,7 +127,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260831055643/https://clearbrief.com/terms",
    "fact_id": "clearbrief.contract.privacy_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.privacy_last_updated",
@@ -156,7 +156,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260831055643/https://clearbrief.com/terms",
    "fact_id": "clearbrief.contract.provider_data_use",
    "fetched_at": "2026-09-06",
    "field": "contract.provider_data_use",
@@ -172,7 +172,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260831055643/https://clearbrief.com/terms",
    "fact_id": "clearbrief.contract.subprocessors_published",
    "fetched_at": "2026-09-06",
    "field": "contract.subprocessors_published",
@@ -201,7 +201,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260831055643/https://clearbrief.com/terms",
    "fact_id": "clearbrief.contract.terms_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.terms_last_updated",
@@ -230,7 +230,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260831055643/https://clearbrief.com/terms",
    "fact_id": "clearbrief.pricing.free_trial",
    "fetched_at": "2026-09-06",
    "field": "pricing.free_trial",
@@ -246,7 +246,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230206040822/https://clearbrief.com/pricing",
    "fact_id": "clearbrief.pricing.list_price",
    "fetched_at": "2026-09-06",
    "field": "pricing.list_price",
@@ -262,7 +262,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230206040822/https://clearbrief.com/pricing",
    "fact_id": "clearbrief.pricing.minimum_term",
    "fetched_at": "2026-09-06",
    "field": "pricing.minimum_term",
@@ -291,7 +291,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230206040822/https://clearbrief.com/pricing",
    "fact_id": "clearbrief.pricing.model",
    "fetched_at": "2026-09-06",
    "field": "pricing.model",
@@ -307,7 +307,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230206040822/https://clearbrief.com/pricing",
    "fact_id": "clearbrief.pricing.published",
    "fetched_at": "2026-09-06",
    "field": "pricing.published",
@@ -323,7 +323,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230206040822/https://clearbrief.com/pricing",
    "fact_id": "clearbrief.pricing.seat_minimum",
    "fetched_at": "2026-09-06",
    "field": "pricing.seat_minimum",
@@ -352,7 +352,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230206040822/https://clearbrief.com/pricing",
    "fact_id": "clearbrief.product.integration_word",
    "fetched_at": "2026-09-06",
    "field": "product.integration_word",
@@ -368,7 +368,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260521083630/https://clearbrief.com/privacy",
    "fact_id": "clearbrief.security.data_residency",
    "fetched_at": "2026-09-06",
    "field": "security.data_residency",
@@ -386,7 +386,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230206040822/https://clearbrief.com/pricing",
    "fact_id": "clearbrief.security.encryption_at_rest",
    "fetched_at": "2026-09-06",
    "field": "security.encryption_at_rest",
@@ -415,7 +415,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230206040822/https://clearbrief.com/pricing",
    "fact_id": "clearbrief.security.iso27001",
    "fetched_at": "2026-09-06",
    "field": "security.iso27001",
@@ -444,7 +444,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230206040822/https://clearbrief.com/pricing",
    "fact_id": "clearbrief.security.iso42001",
    "fetched_at": "2026-09-06",
    "field": "security.iso42001",
@@ -473,7 +473,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230206040822/https://clearbrief.com/pricing",
    "fact_id": "clearbrief.security.no_training_on_customer_data",
    "fetched_at": "2026-09-06",
    "field": "security.no_training_on_customer_data",
@@ -489,7 +489,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230206040822/https://clearbrief.com/pricing",
    "fact_id": "clearbrief.security.private_deployment",
    "fetched_at": "2026-09-06",
    "field": "security.private_deployment",
@@ -518,7 +518,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230206040822/https://clearbrief.com/pricing",
    "fact_id": "clearbrief.security.soc2",
    "fetched_at": "2026-09-06",
    "field": "security.soc2",
@@ -534,7 +534,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230206040822/https://clearbrief.com/pricing",
    "fact_id": "clearbrief.security.soc2_type",
    "fetched_at": "2026-09-06",
    "field": "security.soc2_type",
@@ -550,7 +550,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230206040822/https://clearbrief.com/pricing",
    "fact_id": "clearbrief.security.sso_saml",
    "fetched_at": "2026-09-06",
    "field": "security.sso_saml",
@@ -579,7 +579,7 @@
    "vendor": "Clearbrief, Inc."
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20230206040822/https://clearbrief.com/pricing",
    "fact_id": "clearbrief.security.zero_retention",
    "fetched_at": "2026-09-06",
    "field": "security.zero_retention",

@@ -5,7 +5,7 @@
  "audited": "2026-09-06",
  "facts": [
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260717223011/https://descrybe.com/legal/terms",
    "fact_id": "descrybe-ai.accuracy.claim",
    "fetched_at": "2026-09-06",
    "field": "accuracy.claim",
@@ -37,7 +37,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260717223011/https://descrybe.com/legal/terms",
    "fact_id": "descrybe-ai.contract.dpa_available",
    "fetched_at": "2026-09-06",
    "field": "contract.dpa_available",
@@ -68,7 +68,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260717223011/https://descrybe.com/legal/terms",
    "fact_id": "descrybe-ai.contract.governing_law",
    "fetched_at": "2026-09-06",
    "field": "contract.governing_law",
@@ -84,14 +84,14 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260717223011/https://descrybe.com/legal/terms",
    "fact_id": "descrybe-ai.contract.liability_cap",
    "fetched_at": "2026-09-06",
    "field": "contract.liability_cap",
    "note": null,
    "page_dated": "2026-07-22",
    "pages_checked": [],
-   "quote": "\"amount paid ... in the twelve (12) months\"",
+   "quote": "\"limited to the amount you actually paid\"",
    "source_url": "https://descrybe.com/legal/terms",
    "status": "stated",
    "tool_id": "descrybe-ai",
@@ -100,7 +100,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081052/https://descrybe.com/security",
    "fact_id": "descrybe-ai.contract.model_providers",
    "fetched_at": "2026-09-06",
    "field": "contract.model_providers",
@@ -118,7 +118,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081053/https://descrybe.com/legal/privacy",
    "fact_id": "descrybe-ai.contract.privacy_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.privacy_last_updated",
@@ -134,7 +134,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081052/https://descrybe.com/security",
    "fact_id": "descrybe-ai.contract.provider_data_use",
    "fetched_at": "2026-09-06",
    "field": "contract.provider_data_use",
@@ -150,7 +150,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260717223011/https://descrybe.com/legal/terms",
    "fact_id": "descrybe-ai.contract.subprocessors_published",
    "fetched_at": "2026-09-06",
    "field": "contract.subprocessors_published",
@@ -181,7 +181,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260717223011/https://descrybe.com/legal/terms",
    "fact_id": "descrybe-ai.contract.terms_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.terms_last_updated",
@@ -197,7 +197,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081051/https://descrybe.com/pricing",
    "fact_id": "descrybe-ai.pricing.free_trial",
    "fetched_at": "2026-09-06",
    "field": "pricing.free_trial",
@@ -228,7 +228,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081051/https://descrybe.com/pricing",
    "fact_id": "descrybe-ai.pricing.list_price",
    "fetched_at": "2026-09-06",
    "field": "pricing.list_price",
@@ -244,7 +244,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081051/https://descrybe.com/pricing",
    "fact_id": "descrybe-ai.pricing.minimum_term",
    "fetched_at": "2026-09-06",
    "field": "pricing.minimum_term",
@@ -260,7 +260,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081051/https://descrybe.com/pricing",
    "fact_id": "descrybe-ai.pricing.model",
    "fetched_at": "2026-09-06",
    "field": "pricing.model",
@@ -276,7 +276,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081051/https://descrybe.com/pricing",
    "fact_id": "descrybe-ai.pricing.published",
    "fetched_at": "2026-09-06",
    "field": "pricing.published",
@@ -292,7 +292,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081051/https://descrybe.com/pricing",
    "fact_id": "descrybe-ai.pricing.seat_minimum",
    "fetched_at": "2026-09-06",
    "field": "pricing.seat_minimum",
@@ -323,7 +323,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081051/https://descrybe.com/pricing",
    "fact_id": "descrybe-ai.product.markets",
    "fetched_at": "2026-09-06",
    "field": "product.markets",
@@ -342,7 +342,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081052/https://descrybe.com/security",
    "fact_id": "descrybe-ai.security.data_residency",
    "fetched_at": "2026-09-06",
    "field": "security.data_residency",
@@ -360,7 +360,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081052/https://descrybe.com/security",
    "fact_id": "descrybe-ai.security.encryption_at_rest",
    "fetched_at": "2026-09-06",
    "field": "security.encryption_at_rest",
@@ -376,7 +376,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081052/https://descrybe.com/security",
    "fact_id": "descrybe-ai.security.iso27001",
    "fetched_at": "2026-09-06",
    "field": "security.iso27001",
@@ -392,7 +392,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081052/https://descrybe.com/security",
    "fact_id": "descrybe-ai.security.iso42001",
    "fetched_at": "2026-09-06",
    "field": "security.iso42001",
@@ -423,7 +423,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081052/https://descrybe.com/security",
    "fact_id": "descrybe-ai.security.no_training_on_customer_data",
    "fetched_at": "2026-09-06",
    "field": "security.no_training_on_customer_data",
@@ -439,7 +439,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081052/https://descrybe.com/security",
    "fact_id": "descrybe-ai.security.private_deployment",
    "fetched_at": "2026-09-06",
    "field": "security.private_deployment",
@@ -455,7 +455,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081052/https://descrybe.com/security",
    "fact_id": "descrybe-ai.security.retention_period",
    "fetched_at": "2026-09-06",
    "field": "security.retention_period",
@@ -471,7 +471,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081052/https://descrybe.com/security",
    "fact_id": "descrybe-ai.security.soc2",
    "fetched_at": "2026-09-06",
    "field": "security.soc2",
@@ -487,7 +487,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081052/https://descrybe.com/security",
    "fact_id": "descrybe-ai.security.sso_saml",
    "fetched_at": "2026-09-06",
    "field": "security.sso_saml",
@@ -518,7 +518,7 @@
    "vendor": "Descrybe, LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260830081052/https://descrybe.com/security",
    "fact_id": "descrybe-ai.security.zero_retention",
    "fetched_at": "2026-09-06",
    "field": "security.zero_retention",

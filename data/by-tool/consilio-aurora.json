@@ -5,7 +5,7 @@
  "audited": "2026-09-06",
  "facts": [
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260822043431/https://www.consilio.com/technology/aurora-legal-ai-suite",
    "fact_id": "consilio-aurora.accuracy.claim",
    "fetched_at": "2026-09-06",
    "field": "accuracy.claim",
@@ -37,7 +37,7 @@
    "vendor": "Consilio LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260113143817/https://www.consilio.com/privacy/processors",
    "fact_id": "consilio-aurora.contract.dpa_available",
    "fetched_at": "2026-09-06",
    "field": "contract.dpa_available",
@@ -68,7 +68,7 @@
    "vendor": "Consilio LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260113143817/https://www.consilio.com/privacy/processors",
    "fact_id": "consilio-aurora.contract.model_providers",
    "fetched_at": "2026-09-06",
    "field": "contract.model_providers",
@@ -93,7 +93,7 @@
    "note": null,
    "page_dated": "2026-08-17",
    "pages_checked": [],
-   "quote": "\"Effective Date: August 17, 2026\"",
+   "quote": "\"Updated: August 17, 2026.\"",
    "source_url": "https://www.consilio.com/privacy/privacy-policy/",
    "status": "stated",
    "tool_id": "consilio-aurora",
@@ -102,7 +102,7 @@
    "vendor": "Consilio LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260113143817/https://www.consilio.com/privacy/processors",
    "fact_id": "consilio-aurora.contract.subprocessor_count",
    "fetched_at": "2026-09-06",
    "field": "contract.subprocessor_count",
@@ -118,7 +118,7 @@
    "vendor": "Consilio LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260113143817/https://www.consilio.com/privacy/processors",
    "fact_id": "consilio-aurora.contract.subprocessors_published",
    "fetched_at": "2026-09-06",
    "field": "contract.subprocessors_published",
@@ -134,7 +134,7 @@
    "vendor": "Consilio LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260113143817/https://www.consilio.com/privacy/processors",
    "fact_id": "consilio-aurora.contract.terms_last_updated",
    "fetched_at": "2026-09-06",
    "field": "contract.terms_last_updated",
@@ -351,7 +351,7 @@
    "vendor": "Consilio LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260822043431/https://www.consilio.com/technology/aurora-legal-ai-suite",
    "fact_id": "consilio-aurora.product.markets",
    "fetched_at": "2026-09-06",
    "field": "product.markets",
@@ -372,7 +372,7 @@
    "vendor": "Consilio LLC"
   },
   {
-   "archive_url": null,
+   "archive_url": "https://web.archive.org/web/20260822043431/https://www.consilio.com/technology/aurora-legal-ai-suite",
    "fact_id": "consilio-aurora.product.status",
    "fetched_at": "2026-09-06",
    "field": "product.status",
