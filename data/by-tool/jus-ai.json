@@ -1,0 +1,445 @@
+{
+ "tool_id": "jus-ai",
+ "tool_name": "Jus AI (Jus Mundi)",
+ "vendor": "Jus Mundi",
+ "audited": "2026-09-06",
+ "facts": [
+  {
+   "fact_id": "jus-ai.accuracy.claim",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "accuracy.claim",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en",
+   "archive_url": "http://web.archive.org/web/20260831143220/https://jusmundi.com/en",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en",
+    "https://jusmundi.com/en/jus-ai"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.accuracy.method_published",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "accuracy.method_published",
+   "value": "no",
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en",
+   "archive_url": "http://web.archive.org/web/20260831143220/https://jusmundi.com/en",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en",
+    "https://jusmundi.com/en/jus-ai"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.contract.dpa_available",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "contract.dpa_available",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/terms-and-conditions",
+   "archive_url": null,
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/terms-and-conditions",
+    "https://jusmundi.com/en/privacy-policy",
+    "https://jusmundi.com/en/data-processing-agreement",
+    "https://jusmundi.com/en/subprocessors"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.contract.model_providers",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "contract.model_providers",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/terms-and-conditions",
+   "archive_url": null,
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/terms-and-conditions",
+    "https://jusmundi.com/en/privacy-policy",
+    "https://jusmundi.com/en/data-processing-agreement",
+    "https://jusmundi.com/en/subprocessors"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.contract.privacy_last_updated",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "contract.privacy_last_updated",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/terms-and-conditions",
+   "archive_url": null,
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/terms-and-conditions",
+    "https://jusmundi.com/en/privacy-policy",
+    "https://jusmundi.com/en/data-processing-agreement",
+    "https://jusmundi.com/en/subprocessors"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.contract.subprocessors_published",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "contract.subprocessors_published",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/terms-and-conditions",
+   "archive_url": null,
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/terms-and-conditions",
+    "https://jusmundi.com/en/privacy-policy",
+    "https://jusmundi.com/en/data-processing-agreement",
+    "https://jusmundi.com/en/subprocessors"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.contract.terms_last_updated",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "contract.terms_last_updated",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/terms-and-conditions",
+   "archive_url": null,
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/terms-and-conditions",
+    "https://jusmundi.com/en/privacy-policy",
+    "https://jusmundi.com/en/data-processing-agreement",
+    "https://jusmundi.com/en/subprocessors"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.pricing.free_trial",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "pricing.free_trial",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/pricing",
+   "archive_url": "http://web.archive.org/web/20250726095352/https://jusmundi.com/en/pricing",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/pricing",
+    "https://jusmundi.com/en/jus-ai"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.pricing.list_price",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "pricing.list_price",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/pricing",
+   "archive_url": "http://web.archive.org/web/20250726095352/https://jusmundi.com/en/pricing",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/pricing",
+    "https://jusmundi.com/en/jus-ai"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.pricing.minimum_term",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "pricing.minimum_term",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/pricing",
+   "archive_url": "http://web.archive.org/web/20250726095352/https://jusmundi.com/en/pricing",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/pricing",
+    "https://jusmundi.com/en/jus-ai"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.pricing.model",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "pricing.model",
+   "value": "not-published",
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/pricing",
+   "archive_url": "http://web.archive.org/web/20250726095352/https://jusmundi.com/en/pricing",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/pricing",
+    "https://jusmundi.com/en/jus-ai"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.pricing.published",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "pricing.published",
+   "value": "no",
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/pricing",
+   "archive_url": "http://web.archive.org/web/20250726095352/https://jusmundi.com/en/pricing",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/pricing",
+    "https://jusmundi.com/en/jus-ai"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.pricing.seat_minimum",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "pricing.seat_minimum",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/pricing",
+   "archive_url": "http://web.archive.org/web/20250726095352/https://jusmundi.com/en/pricing",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/pricing",
+    "https://jusmundi.com/en/jus-ai"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.security.data_residency",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "security.data_residency",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/security",
+   "archive_url": "http://web.archive.org/web/20260702040647/https://jusmundi.com/en/security",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/security",
+    "https://jusmundi.com/en/trust",
+    "https://jusmundi.com/en/privacy-policy"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.security.encryption_at_rest",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "security.encryption_at_rest",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/security",
+   "archive_url": "http://web.archive.org/web/20260702040647/https://jusmundi.com/en/security",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/security",
+    "https://jusmundi.com/en/trust",
+    "https://jusmundi.com/en/privacy-policy"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.security.iso27001",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "security.iso27001",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/security",
+   "archive_url": "http://web.archive.org/web/20260702040647/https://jusmundi.com/en/security",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/security",
+    "https://jusmundi.com/en/trust",
+    "https://jusmundi.com/en/privacy-policy"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.security.iso42001",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "security.iso42001",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/security",
+   "archive_url": "http://web.archive.org/web/20260702040647/https://jusmundi.com/en/security",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/security",
+    "https://jusmundi.com/en/trust",
+    "https://jusmundi.com/en/privacy-policy"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.security.no_training_on_customer_data",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "security.no_training_on_customer_data",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/security",
+   "archive_url": "http://web.archive.org/web/20260702040647/https://jusmundi.com/en/security",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/security",
+    "https://jusmundi.com/en/trust",
+    "https://jusmundi.com/en/privacy-policy"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.security.private_deployment",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "security.private_deployment",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/security",
+   "archive_url": "http://web.archive.org/web/20260702040647/https://jusmundi.com/en/security",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/security",
+    "https://jusmundi.com/en/trust",
+    "https://jusmundi.com/en/privacy-policy"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.security.soc2",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "security.soc2",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/security",
+   "archive_url": "http://web.archive.org/web/20260702040647/https://jusmundi.com/en/security",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/security",
+    "https://jusmundi.com/en/trust",
+    "https://jusmundi.com/en/privacy-policy"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.security.sso_saml",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "security.sso_saml",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/security",
+   "archive_url": "http://web.archive.org/web/20260702040647/https://jusmundi.com/en/security",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/security",
+    "https://jusmundi.com/en/trust",
+    "https://jusmundi.com/en/privacy-policy"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  },
+  {
+   "fact_id": "jus-ai.security.zero_retention",
+   "tool_id": "jus-ai",
+   "tool_name": "Jus AI (Jus Mundi)",
+   "vendor": "Jus Mundi",
+   "field": "security.zero_retention",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://jusmundi.com/en/security",
+   "archive_url": "http://web.archive.org/web/20260702040647/https://jusmundi.com/en/security",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://jusmundi.com/en/security",
+    "https://jusmundi.com/en/trust",
+    "https://jusmundi.com/en/privacy-policy"
+   ],
+   "note": "Jus Mundi public pages checked returned Cloudflare/403 or did not render usable content."
+  }
+ ]
+}

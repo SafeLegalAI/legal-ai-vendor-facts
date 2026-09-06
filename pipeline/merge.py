@@ -103,9 +103,12 @@ def write_outputs(rows):
 def patch_site(site: Path, by_tool):
     from ruamel.yaml import YAML
 
+    from ruamel.yaml.scalarstring import DoubleQuotedScalarString as DQ
+
     yaml = YAML()
     yaml.preserve_quotes = True
     yaml.width = 4096
+    yaml.indent(mapping=2, sequence=4, offset=2)  # match the site's existing list style
     tools_dir = site / "src" / "content" / "tools"
     report = {"patched": 0, "fields_set": 0, "conflicts": [], "missing_tool": []}
     for tid, facts in sorted(by_tool.items()):
@@ -128,14 +131,14 @@ def patch_site(site: Path, by_tool):
                 if new:
                     cur = doc[block].get(key, "unknown")
                     if cur == "unknown":
-                        doc[block][key] = new
+                        doc[block][key] = DQ(new)
                         changed += 1
                     elif cur != new:
                         report["conflicts"].append({"tool": tid, "field": field, "site": cur, "audit": new, "source": f["source_url"]})
             if field in URL_FIELDS and asserted and f.get("source_url"):
                 block, key = URL_FIELDS[field]
                 if not doc[block].get(key):
-                    doc[block][key] = f["source_url"]
+                    doc[block][key] = DQ(f["source_url"])
                     changed += 1
             if field == "pricing.model" and asserted and isinstance(val, str):
                 m = PRICING_MODEL.get(val.lower())
@@ -143,19 +146,19 @@ def patch_site(site: Path, by_tool):
                     pr["model"] = m
                     changed += 1
             if field == "pricing.list_price" and asserted and isinstance(val, str) and not pr.get("public"):
-                pr["public"] = val
+                pr["public"] = DQ(val)
                 changed += 1
             if field == "pricing.seat_minimum" and asserted and isinstance(val, str) and not pr.get("seatMinimum"):
-                pr["seatMinimum"] = val
+                pr["seatMinimum"] = DQ(val)
                 changed += 1
             if field == "pricing.minimum_term" and asserted and isinstance(val, str) and not pr.get("minimumTerm"):
-                pr["minimumTerm"] = val
+                pr["minimumTerm"] = DQ(val)
                 changed += 1
             if field == "security.data_residency" and asserted and isinstance(val, list) and not sec.get("dataResidency"):
-                sec["dataResidency"] = [str(x) for x in val]
+                sec["dataResidency"] = [DQ(str(x)) for x in val]
                 changed += 1
             if field == "contract.model_providers" and asserted and isinstance(val, list) and not doc.get("models"):
-                doc["models"] = [str(x) for x in val]
+                doc["models"] = [DQ(str(x)) for x in val]
                 changed += 1
             if field == "security.breach_notification_hours" and asserted and sec.get("breachNotificationHours") is None:
                 digits = re.sub(r"\D", "", str(val))
@@ -170,7 +173,7 @@ def patch_site(site: Path, by_tool):
         label = f"SafeLegalAI documentation audit, {audited}: every fact with its quote, source page and archived copy"
         url = f"{GH_RAW}/{tid}.json"
         if not any(s.get("url") == url for s in doc.get("sources", [])):
-            doc.setdefault("sources", []).append({"label": label, "url": url})
+            doc.setdefault("sources", []).append({"label": DQ(label), "url": DQ(url)})
             changed += 1
         if changed:
             with path.open("w", encoding="utf-8") as fh:

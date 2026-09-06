@@ -1,0 +1,446 @@
+{
+ "tool_id": "donotpay",
+ "tool_name": "DoNotPay",
+ "vendor": "DoNotPay, Inc.",
+ "audited": "2026-09-06",
+ "facts": [
+  {
+   "fact_id": "donotpay.accuracy.claim",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "accuracy.claim",
+   "value": "legal information and self-help; no legal accuracy review",
+   "status": "stated",
+   "quote": "\"We do not review any information you provide us for legal accuracy or sufficiency\"",
+   "source_url": "https://donotpay.com/terms",
+   "archive_url": "http://web.archive.org/web/20181118032503/https://www.donotpay.com/terms/",
+   "fetched_at": "2026-09-06",
+   "page_dated": "2024-04-20"
+  },
+  {
+   "fact_id": "donotpay.accuracy.method_published",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "accuracy.method_published",
+   "value": "no",
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://donotpay.com/",
+   "archive_url": "https://web.archive.org/web/20260906071212/https://donotpay.com/",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://donotpay.com/",
+    "https://donotpay.com/terms"
+   ]
+  },
+  {
+   "fact_id": "donotpay.contract.dpa_available",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "contract.dpa_available",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://donotpay.com/terms",
+   "archive_url": "http://web.archive.org/web/20181118032503/https://www.donotpay.com/terms/",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://donotpay.com/terms",
+    "https://donotpay.com/learn/terms-of-service",
+    "https://donotpay.com/learn/privacy-policy",
+    "https://donotpay.com/data-processing-agreement",
+    "https://donotpay.com/subprocessors"
+   ]
+  },
+  {
+   "fact_id": "donotpay.contract.governing_law",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "contract.governing_law",
+   "value": "Virginia law and Federal law",
+   "status": "stated",
+   "quote": "\"Virginia law and Federal law will govern the interpretation and enforcement of these Terms.\"",
+   "source_url": "https://donotpay.com/terms",
+   "archive_url": "http://web.archive.org/web/20181118032503/https://www.donotpay.com/terms/",
+   "fetched_at": "2026-09-06",
+   "page_dated": "2024-04-20"
+  },
+  {
+   "fact_id": "donotpay.contract.model_providers",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "contract.model_providers",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://donotpay.com/terms",
+   "archive_url": "http://web.archive.org/web/20181118032503/https://www.donotpay.com/terms/",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://donotpay.com/terms",
+    "https://donotpay.com/learn/terms-of-service",
+    "https://donotpay.com/learn/privacy-policy",
+    "https://donotpay.com/data-processing-agreement",
+    "https://donotpay.com/subprocessors"
+   ]
+  },
+  {
+   "fact_id": "donotpay.contract.privacy_last_updated",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "contract.privacy_last_updated",
+   "value": "2023-08-22",
+   "status": "stated",
+   "quote": "\"LAST UPDATED: August 22, 2023\"",
+   "source_url": "https://donotpay.com/learn/privacy-policy",
+   "archive_url": "http://web.archive.org/web/20260717070938/https://donotpay.com/learn/privacy-policy/",
+   "fetched_at": "2026-09-06",
+   "page_dated": "2023-08-22"
+  },
+  {
+   "fact_id": "donotpay.contract.subprocessors_published",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "contract.subprocessors_published",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://donotpay.com/terms",
+   "archive_url": "http://web.archive.org/web/20181118032503/https://www.donotpay.com/terms/",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://donotpay.com/terms",
+    "https://donotpay.com/learn/terms-of-service",
+    "https://donotpay.com/learn/privacy-policy",
+    "https://donotpay.com/data-processing-agreement",
+    "https://donotpay.com/subprocessors"
+   ]
+  },
+  {
+   "fact_id": "donotpay.contract.terms_last_updated",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "contract.terms_last_updated",
+   "value": "2024-04-20",
+   "status": "stated",
+   "quote": "\"LAST UPDATED: April 20, 2024\"",
+   "source_url": "https://donotpay.com/terms",
+   "archive_url": "http://web.archive.org/web/20181118032503/https://www.donotpay.com/terms/",
+   "fetched_at": "2026-09-06",
+   "page_dated": "2024-04-20"
+  },
+  {
+   "fact_id": "donotpay.pricing.free_trial",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "pricing.free_trial",
+   "value": "yes",
+   "status": "stated",
+   "quote": "\"including after any free trial period\"",
+   "source_url": "https://donotpay.com/terms",
+   "archive_url": "http://web.archive.org/web/20181118032503/https://www.donotpay.com/terms/",
+   "fetched_at": "2026-09-06",
+   "page_dated": "2024-04-20"
+  },
+  {
+   "fact_id": "donotpay.pricing.list_price",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "pricing.list_price",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://donotpay.com/pricing",
+   "archive_url": null,
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://donotpay.com/pricing",
+    "https://donotpay.com/plans",
+    "https://donotpay.com/terms"
+   ]
+  },
+  {
+   "fact_id": "donotpay.pricing.minimum_term",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "pricing.minimum_term",
+   "value": "subscription services automatically renew for the initial-period duration unless cancelled 48 hours before renewal",
+   "status": "stated",
+   "quote": "\"automatically renewed for additional periods of the same duration as the Initial Period\"",
+   "source_url": "https://donotpay.com/terms",
+   "archive_url": "http://web.archive.org/web/20181118032503/https://www.donotpay.com/terms/",
+   "fetched_at": "2026-09-06",
+   "page_dated": "2024-04-20"
+  },
+  {
+   "fact_id": "donotpay.pricing.model",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "pricing.model",
+   "value": "tiered",
+   "status": "stated",
+   "quote": "\"Subscription Services\"",
+   "source_url": "https://donotpay.com/terms",
+   "archive_url": "http://web.archive.org/web/20181118032503/https://www.donotpay.com/terms/",
+   "fetched_at": "2026-09-06",
+   "page_dated": "2024-04-20"
+  },
+  {
+   "fact_id": "donotpay.pricing.published",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "pricing.published",
+   "value": "no",
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://donotpay.com/pricing",
+   "archive_url": null,
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://donotpay.com/pricing",
+    "https://donotpay.com/plans",
+    "https://donotpay.com/terms"
+   ],
+   "note": "No concrete public list price was visible on pricing/plans/terms pages."
+  },
+  {
+   "fact_id": "donotpay.pricing.seat_minimum",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "pricing.seat_minimum",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://donotpay.com/pricing",
+   "archive_url": null,
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://donotpay.com/pricing",
+    "https://donotpay.com/plans",
+    "https://donotpay.com/terms"
+   ]
+  },
+  {
+   "fact_id": "donotpay.product.status",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "product.status",
+   "value": "not a law firm; provides legal information and self-help",
+   "status": "stated",
+   "quote": "\"DoNotPay is not a law firm and does not provide legal advice.\"",
+   "source_url": "https://donotpay.com/",
+   "archive_url": "https://web.archive.org/web/20260906071212/https://donotpay.com/",
+   "fetched_at": "2026-09-06",
+   "page_dated": null
+  },
+  {
+   "fact_id": "donotpay.security.data_residency",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "security.data_residency",
+   "value": [
+    "United States"
+   ],
+   "status": "stated",
+   "quote": "\"transferred to, processed, stored, and used in the United States\"",
+   "source_url": "https://donotpay.com/learn/privacy-policy",
+   "archive_url": "http://web.archive.org/web/20260717070938/https://donotpay.com/learn/privacy-policy/",
+   "fetched_at": "2026-09-06",
+   "page_dated": "2023-08-22"
+  },
+  {
+   "fact_id": "donotpay.security.encryption_at_rest",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "security.encryption_at_rest",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://donotpay.com/security",
+   "archive_url": null,
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://donotpay.com/security",
+    "https://donotpay.com/privacy",
+    "https://donotpay.com/learn/privacy-policy"
+   ]
+  },
+  {
+   "fact_id": "donotpay.security.iso27001",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "security.iso27001",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://donotpay.com/security",
+   "archive_url": null,
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://donotpay.com/security",
+    "https://donotpay.com/privacy",
+    "https://donotpay.com/learn/privacy-policy"
+   ]
+  },
+  {
+   "fact_id": "donotpay.security.iso42001",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "security.iso42001",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://donotpay.com/security",
+   "archive_url": null,
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://donotpay.com/security",
+    "https://donotpay.com/privacy",
+    "https://donotpay.com/learn/privacy-policy"
+   ]
+  },
+  {
+   "fact_id": "donotpay.security.no_training_on_customer_data",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "security.no_training_on_customer_data",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://donotpay.com/security",
+   "archive_url": null,
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://donotpay.com/security",
+    "https://donotpay.com/privacy",
+    "https://donotpay.com/learn/privacy-policy"
+   ]
+  },
+  {
+   "fact_id": "donotpay.security.private_deployment",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "security.private_deployment",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://donotpay.com/security",
+   "archive_url": null,
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://donotpay.com/security",
+    "https://donotpay.com/privacy",
+    "https://donotpay.com/learn/privacy-policy"
+   ]
+  },
+  {
+   "fact_id": "donotpay.security.retention_period",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "security.retention_period",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://donotpay.com/learn/privacy-policy",
+   "archive_url": "http://web.archive.org/web/20260717070938/https://donotpay.com/learn/privacy-policy/",
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://donotpay.com/security",
+    "https://donotpay.com/privacy",
+    "https://donotpay.com/learn/privacy-policy"
+   ]
+  },
+  {
+   "fact_id": "donotpay.security.soc2",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "security.soc2",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://donotpay.com/security",
+   "archive_url": null,
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://donotpay.com/security",
+    "https://donotpay.com/privacy",
+    "https://donotpay.com/learn/privacy-policy"
+   ]
+  },
+  {
+   "fact_id": "donotpay.security.sso_saml",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "security.sso_saml",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://donotpay.com/security",
+   "archive_url": null,
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://donotpay.com/security",
+    "https://donotpay.com/privacy",
+    "https://donotpay.com/learn/privacy-policy"
+   ]
+  },
+  {
+   "fact_id": "donotpay.security.zero_retention",
+   "tool_id": "donotpay",
+   "tool_name": "DoNotPay",
+   "vendor": "DoNotPay, Inc.",
+   "field": "security.zero_retention",
+   "value": null,
+   "status": "not-found",
+   "quote": null,
+   "source_url": "https://donotpay.com/security",
+   "archive_url": null,
+   "fetched_at": "2026-09-06",
+   "page_dated": null,
+   "pages_checked": [
+    "https://donotpay.com/security",
+    "https://donotpay.com/privacy",
+    "https://donotpay.com/learn/privacy-policy"
+   ]
+  }
+ ]
+}
