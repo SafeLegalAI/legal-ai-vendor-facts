@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Legal AI vendor fact",
+  "description": "One row per fact a vendor states on a public page about its own product: what the page says, where, when we read it, and an archived copy. Facts are not copyrightable; the quote (≤ 25 words) identifies the statement, it does not reproduce the page. 'not-found' rows record that we looked and the page did not say — the absence is itself the fact.",
+  "type": "object",
+  "required": ["fact_id", "tool_id", "tool_name", "vendor", "field", "value", "status", "source_url", "fetched_at"],
+  "properties": {
+    "fact_id": { "type": "string", "pattern": "^[a-z0-9-]+\\.[a-z0-9_.]+$", "description": "<tool_id>.<field>" },
+    "tool_id": { "type": "string", "description": "SafeLegalAI tools slug (src/content/tools/<id>.yaml)" },
+    "tool_name": { "type": "string" },
+    "vendor": { "type": "string" },
+    "field": { "enum": [
+      "pricing.published", "pricing.model", "pricing.list_price", "pricing.seat_minimum", "pricing.minimum_term", "pricing.free_trial", "pricing.free_tier",
+      "security.soc2", "security.soc2_type", "security.iso27001", "security.iso42001", "security.iso27701", "security.hipaa", "security.fedramp", "security.cyber_essentials",
+      "security.no_training_on_customer_data", "security.zero_retention", "security.retention_period", "security.private_deployment", "security.data_residency", "security.encryption_at_rest", "security.sso_saml", "security.audit_logs", "security.pen_test", "security.breach_notification_hours",
+      "contract.dpa_available", "contract.subprocessors_published", "contract.subprocessor_count", "contract.model_providers", "contract.provider_data_use", "contract.audit_rights", "contract.liability_cap", "contract.governing_law", "contract.terms_last_updated", "contract.privacy_last_updated",
+      "accuracy.claim", "accuracy.method_published", "accuracy.third_party_evaluation",
+      "product.status", "product.markets", "product.languages", "product.integration_word", "product.on_premise_option"
+    ] },
+    "value": { "type": ["string", "boolean", "number", "array", "null"], "description": "normalised value: tri-state yes/no/unknown for booleans as strings 'yes'|'no'; lists for residency/providers; strings for prices and terms; null when not-found" },
+    "status": { "enum": ["stated", "implied", "not-found", "contradictory"], "description": "stated = the page says it in words; implied = follows from a badge/logo/list without a sentence; not-found = we read the relevant pages and none addresses it; contradictory = two vendor pages disagree (explain in note)" },
+    "quote": { "type": ["string", "null"], "maxLength": 220, "description": "≤ 25 words, verbatim, in quotation marks; null for not-found" },
+    "source_url": { "type": "string", "format": "uri", "description": "the vendor page read (or the most relevant one, for not-found)" },
+    "pages_checked": { "type": "array", "items": { "type": "string", "format": "uri" }, "description": "for not-found rows: every vendor page read" },
+    "archive_url": { "type": ["string", "null"] },
+    "fetched_at": { "type": "string", "format": "date" },
+    "page_dated": { "type": ["string", "null"], "description": "'last updated' date printed on the page, if any (YYYY-MM-DD)" },
+    "note": { "type": ["string", "null"], "maxLength": 400 }
+  }
+}
