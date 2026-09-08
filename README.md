@@ -1,5 +1,7 @@
 # Legal AI vendor facts
 
+> Part of the [SafeLegalAI datasets](https://safelegalai.com/datasets) — CC BY 4.0, mirrored on [Hugging Face](https://huggingface.co/datasets/safelegalaidata/legal-ai-vendor-facts). Every row links to its record page and its primary source. Found an error in a row? [Open an issue](https://github.com/SafeLegalAI/legal-ai-vendor-facts/issues/new?template=row-error.yml) or use [safelegalai.com/report](https://safelegalai.com/report).
+
 **What each legal-AI vendor documents on its own public pages — pricing, contract terms, security certifications, training and retention commitments, data residency, accuracy claims — one fact per row, with the quote that identifies it, the page it came from, an archived copy and the date we read it.** Facts, never a ranking.
 
 Published by [SafeLegalAI](https://safelegalai.com) (Cognesio LLP). Canonical pages: [safelegalai.com/tools](https://safelegalai.com/tools) (one record per tool) and [safelegalai.com/tools/compare](https://safelegalai.com/tools/compare) (documented facts side by side). Mirror: [huggingface.co/datasets/safelegalaidata/legal-ai-vendor-facts](https://huggingface.co/datasets/safelegalaidata/legal-ai-vendor-facts).
